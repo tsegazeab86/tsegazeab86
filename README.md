@@ -1,12 +1,20 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,15,20,25,30&height=220&section=header&text=Hi%20There,%20I'm%20Tsegazeab!%20👋&fontSize=42&animation=fadeIn&fontColor=ffffff&desc=3rd%20Year%20Computer%20Science%20Student%20%7C%20Full-Stack%20Developer&descSize=18&descAlignY=70" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,10,20,30,40&height=220&section=header&text=Hi%20There,%20I'm%20Tsegazeab!%20👋&fontSize=40&animation=twinkling&fontColor=ffffff&desc=3rd%20Year%20Computer%20Science%20Student%20%7C%20Full-Stack%20Developer&descSize=18&descAlignY=70" width="100%" alt="Header Banner" />
 </p>
 
-<!-- DYNAMIC TYPING HEADER -->
+<!-- PROFILE IMAGE & MULTI-COLOR ANIMATED TYPING HEADER -->
+<p align="center">
+  <!-- GitHub Avatar (Automatically pulls your public profile photo) -->
+  <a href="https://github.com/tsegazeab86">
+    <img src="https://github.com/tsegazeab86.png" width="150" style="border-radius: 50%; border: 3px solid #00F5D4;" alt="Tsegazeab Profile Picture" />
+  </a>
+</p>
+
 <p align="center">
   <a href="https://github.com/tsegazeab86">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F5D4&center=true&vCenter=true&width=650&lines=Full-Stack+MERN+Developer+%F0%9F%9A%80;React+%26+Node.js+Enthusiast+%E2%9A%A1;Problem+Solver+%26+System+Architect+%F0%9F%A7%A0;Passionate+about+Cloud+%26+Distributed+Systems+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
+    <!-- Multi-color typing effect with neon cyan gradient -->
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F5D4&center=true&vCenter=true&width=700&lines=Full-Stack+MERN+Developer+%F0%9F%9A%80;React+%26+Node.js+Enthusiast+%E2%9A%A1;Problem+Solver+%26+System+Architect+%F0%9F%A7%A0;Passionate+about+Cloud+%26+Distributed+Systems+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
   </a>
 </p>
 
@@ -116,6 +124,7 @@
 </p>
 
 <p align="center">
+  <!-- Fixed working URL for Streak Stats -->
   <img src="https://streak-stats.demolab.com/?user=tsegazeab86&theme=tokyonight&hide_border=true" width="96%" alt="GitHub Streak" />
 </p>
 
@@ -148,7 +157,7 @@
 
 ---
 
-<!-- FOOTER -->
+<!-- ANIMATED FOOTER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,15,20,25,30&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,10,20,30,40&height=100&section=footer" width="100%" />
 </p>
