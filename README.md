@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> Hi, I'm Tsegazeab! 👋
 </h1>
 
-<!-- Animated Typing Header (Clean Encoded URLs) -->
+<!-- Animated Typing Header -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=3rd+Year+CS+Student;Full-Stack+MERN+Developer;React+%26+Node.js+Enthusiast;Problem+Solver+%26+Architect" alt="Typing SVG" />
 </p>
@@ -15,7 +15,7 @@
 
 ---
 
-<!-- About Me & Developer Illustration Side-by-Side Layout -->
+<!-- About Me & Developer Animation Side-by-Side -->
 <table>
   <tr>
     <td width="60%" valign="top">
@@ -28,7 +28,8 @@
       </ul>
     </td>
     <td width="40%" align="center" valign="middle">
-      <img src="https://cdni.iconscout.com/illustration/premium/thumb/web-developer-4056114-3363842.png" width="100%" alt="Developer Working" />
+      <!-- Upload ያደረግከው የ GIF አድራሻ -->
+      <img src="https://raw.githubusercontent.com/tsegazeab86/tsegazeab86/main/images/developer-animation.gif" width="100%" alt="Developer Working" />
     </td>
   </tr>
 </table>
