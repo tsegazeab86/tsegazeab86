@@ -3,6 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,45:3730A3,100:6366F1&height=230&section=header&text=Hi%20there%2C%20I'm%20Tsegaye%20Mekonnen&fontSize=40&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Developer%20%C2%B7%20MERN%20Stack%20%C2%B7%20Computer%20Science%20Student&descSize=17&descAlignY=63&animation=fadeIn" width="100%" alt="Hi there, I'm Tsegaye Mekonnen" />
 </p>
 
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=818CF8&center=true&vCenter=true&width=720&lines=Welcome+to+my+GitHub+profile;Building+scalable+web+applications;React+%26+Node.js+Developer;Clean+code.+Solid+architecture.+Real+impact." alt="Typing SVG" />
 </p>
