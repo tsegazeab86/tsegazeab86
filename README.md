@@ -14,31 +14,26 @@
   <img src="https://img.shields.io/github/stars/tsegazeab86?style=for-the-badge&logo=github&color=3730A3" alt="Stars" />
 </p>
 
----
-
-<!-- ===================== ABOUT ===================== -->
-<h3>👋 About Me</h3>
-
-I'm a **third-year Computer Science student** and **full-stack developer** who turns real-world problems into reliable, well-structured web applications. I care about clean architecture, performance, and a smooth user experience.
-
-<table width="100%">
+--- 
+<!-- About Me & Developer Animation Side-by-Side -->
+<table>
   <tr>
-    <td width="25%"><b>🎓 Education</b></td>
-    <td>B.Sc. Computer Science (3rd Year)</td>
-  </tr>
-  <tr>
-    <td><b>💻 Focus</b></td>
-    <td>Full-Stack Web Development: MERN, PHP, SQL</td>
-  </tr>
-  <tr>
-    <td><b>🚀 Currently Building</b></td>
-    <td>Scalable web applications and real-time APIs</td>
-  </tr>
-  <tr>
-    <td><b>⚡ Passion</b></td>
-    <td>System architecture, problem solving, and UI/UX</td>
+    <td width="60%" valign="top">
+      <h3>💫 About Me</h3>
+      <ul>
+        <li>🎓 <b>Education:</b> 3rd Year Computer Science Student</li>
+        <li>💻 <b>Focus:</b> Full-Stack Web Development (MERN, PHP, SQL)</li>
+        <li>🚀 <b>Currently Building:</b> Scalable Web Apps & Real-Time APIs</li>
+        <li>⚡ <b>Passion:</b> System Architecture, Problem Solving & UI/UX</li>
+      </ul>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="./developer-animation.gif.gif" width="100%" alt="Developer Working" />
+    </td>
   </tr>
 </table>
+
+---
 
 ---
 
@@ -178,6 +173,7 @@ I'm a **third-year Computer Science student** and **full-stack developer** who t
   </tr>
 </table>
 
+---
 ---
 
 <!-- ===================== ANALYTICS ===================== -->
