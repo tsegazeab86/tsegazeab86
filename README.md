@@ -29,8 +29,7 @@
     </td>
     <td width="40%" align="center" valign="middle">
       <!-- Upload ያደረግከው የ GIF አድራሻ -->
-      <img src="https://raw.githubusercontent.com/tsegazeab86/tsegazeab86/main/developer-animation.gif" width="100%" alt="Developer Working" />
-    </td>
+<img src="./images/developer-animation.gif" width="100%" alt="Developer Working" />    </td>
   </tr>
 </table>
 
