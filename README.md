@@ -174,19 +174,17 @@
 
 ---
 
-<!-- ===================== ANALYTICS ===================== -->
+ <!-- ===================== ANALYTICS ===================== -->
 <h3 align="center">📊 GitHub Analytics</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tsegazeab86&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsegazeab86&layout=compact&theme=midnight-purple&hide_border=true&langs_count=6" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsegazeab86&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8&hide=php,swift" width="48%" alt="Top Languages" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tsegazeab86&theme=midnight-purple&hide_border=true" width="60%" alt="GitHub Streak" />
 </p>
-
----
 
 <!-- ===================== PHILOSOPHY ===================== -->
 <h3>💡 Philosophy</h3>
