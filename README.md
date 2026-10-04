@@ -23,7 +23,7 @@
 
 <table border="0">
   <tr>
-    <td width="60%">
+    <td width="80%">
       <ul>
         <li>🎓 <b>Education:</b> 3rd Year Computer Science Student</li>
         <li>💻 <b>Focus:</b> Full-Stack Web Development (MERN Stack, PHP, SQL)</li>
@@ -34,7 +34,7 @@
     </td>
     <td width="40%" align="center">
       <!-- የፕሮፋይል ፎቶህ እዚህ ይገባል -->
-      <img src="https://github.com/tsegazeab86.png" width="180px" style="border-radius: 50%; border: 3px solid #00F5D4;" alt="Tsegazeab Profile" />
+      <img src="https://github.com/tsegazeab86.png" width="180px" style="border-radius: 100%; border: 3px solid #00F5D4;" alt="Tsegazeab Profile" />
     </td>
   </tr>
 </table>
