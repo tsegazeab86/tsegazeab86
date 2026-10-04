@@ -18,7 +18,8 @@
 
 ---
 
-### 💫 About Me
+
+ ### 💫 About Me
 
 <table border="0">
   <tr>
@@ -32,7 +33,8 @@
       </ul>
     </td>
     <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/qgQUGG4dbv5BLOY1Wo/giphy.gif" width="220px" alt="Coding GIF" />
+      <!-- የፕሮፋይል ፎቶህ እዚህ ይገባል -->
+      <img src="https://github.com/tsegazeab86.png" width="180px" style="border-radius: 50%; border: 3px solid #00F5D4;" alt="Tsegazeab Profile" />
     </td>
   </tr>
 </table>
