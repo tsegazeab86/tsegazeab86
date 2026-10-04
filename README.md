@@ -3,14 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,10,20,30,40&height=220&section=header&text=Hi%20There,%20I'm%20Tsegazeab!%20👋&fontSize=40&animation=twinkling&fontColor=ffffff&desc=3rd%20Year%20Computer%20Science%20Student%20%7C%20Full-Stack%20Developer&descSize=18&descAlignY=70" width="100%" alt="Header Banner" />
 </p>
 
-<!-- PROFILE IMAGE & MULTI-COLOR ANIMATED TYPING HEADER -->
-<p align="center">
-  <!-- GitHub Avatar (Automatically pulls your public profile photo) -->
-  <a href="https://github.com/tsegazeab86">
-    <img src="https://github.com/tsegazeab86.png" width="150" style="border-radius: 50%; border: 3px solid #00F5D4;" alt="Tsegazeab Profile Picture" />
-  </a>
-</p>
-
+ 
 <p align="center">
   <a href="https://github.com/tsegazeab86">
     <!-- Multi-color typing effect with neon cyan gradient -->
