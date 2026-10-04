@@ -3,9 +3,9 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> Hi, I'm Tsegazeab! 👋
 </h1>
 
-<!-- Reliable Animated Typing Header -->
+<!-- Animated Typing Header (Clean Encoded URLs) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=3rd+Year+Computer+Science+Student+💻;Full-Stack+MERN+Developer+🚀;React+%26+Node.js+Enthusiast+⚡;Problem+Solver+%26+System+Architect+🧠" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=3rd+Year+CS+Student;Full-Stack+MERN+Developer;React+%26+Node.js+Enthusiast;Problem+Solver+%26+Architect" alt="Typing SVG" />
 </p>
 
 <!-- Animated Waving Welcome Banner -->
@@ -15,12 +15,23 @@
 
 ---
 
-### 💫 About Me
-
-- 🎓 **Education:** 3rd Year Computer Science Student
-- 💻 **Focus:** Full-Stack Web Development (MERN Stack, PHP, SQL)
-- 🚀 **Currently Building:** Scalable Web Applications & Real-Time APIs
-- ⚡ **Passion:** Problem Solving, System Architecture, & UI/UX Design
+<!-- About Me & Developer Illustration Side-by-Side Layout -->
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <h3>💫 About Me</h3>
+      <ul>
+        <li>🎓 <b>Education:</b> 3rd Year Computer Science Student</li>
+        <li>💻 <b>Focus:</b> Full-Stack Web Development (MERN, PHP, SQL)</li>
+        <li>🚀 <b>Currently Building:</b> Scalable Web Apps & Real-Time APIs</li>
+        <li>⚡ <b>Passion:</b> System Architecture, Problem Solving & UI/UX</li>
+      </ul>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="https://cdni.iconscout.com/illustration/premium/thumb/web-developer-4056114-3363842.png" width="100%" alt="Developer Working" />
+    </td>
+  </tr>
+</table>
 
 ---
 
