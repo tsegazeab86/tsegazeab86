@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> Hi, I'm Tsegazeab! 👋
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> Hi, I'm Tsegaye Mekonnen! 👋
 </h1>
 
 <!-- Animated Typing Header -->
@@ -41,21 +41,49 @@
 
 ---
 
-### 🔬 Research Interests
-- 🧠 **Artificial Intelligence & Machine Learning:** Neural Networks and Intelligent Web Integration.
-- ⚡ **Distributed Systems:** High-performance database management and asynchronous API designs.
-- 🔐 **Web Security & Cryptography:** JWT Authentication protocols and API rate limiting security.
+🔬 Research Interests
+💻 Full-Stack Web Development: Architecture and optimization of scalable, high-performance MERN stack web applications.
+
+🧠 Artificial Intelligence & Machine Learning: Neural Networks and Intelligent Web Integration.
+
+⚡ Distributed Systems: High-performance database management and asynchronous API designs.
+
+🔐 Web Security & Cryptography: JWT Authentication protocols and API rate limiting
 
 ---
 
 ### 📌 Featured Projects
 
 <p align="center">
+  <!-- Evangadi Forum -->
   <a href="https://github.com/tsegazeab86/Evangadi-forum">
     <img height="160" src="https://github-readme-stats.vercel.app/api/pin/?username=tsegazeab86&repo=Evangadi-forum&theme=tokyonight" alt="Evangadi Forum Project" />
   </a>
+  <!-- Hospital Management System -->
+  <a href="https://github.com/tsegazeab86/Hospital-Management-System">
+    <img height="160" src="https://github-readme-stats.vercel.app/api/pin/?username=tsegazeab86&repo=Hospital-Management-System&theme=tokyonight" alt="Hospital Management System" />
+  </a>
 </p>
 
+<p align="center">
+  <!-- Campus Cafeteria Live Queue & Pre-order System -->
+  <a href="https://github.com/tsegazeab86/Campus-Cafeteria-Live-Queue">
+    <img height="160" src="https://github-readme-stats.vercel.app/api/pin/?username=tsegazeab86&repo=Campus-Cafeteria-Live-Queue&theme=tokyonight" alt="Campus Cafeteria System" />
+  </a>
+  <!-- Digital Campus Clearance & Property Management -->
+  <a href="https://github.com/tsegazeab86/Digital-Campus-Clearance">
+    <img height="160" src="https://github-readme-stats.vercel.app/api/pin/?username=tsegazeab86&repo=Digital-Campus-Clearance&theme=tokyonight" alt="Digital Campus Clearance" />
+  </a>
+</p>
+
+---
+
+#### 🛠️ Highlights Overview
+
+- 💬 **Evangadi Forum:** Interactive full-stack Q&A platform for students and instructors built using React, Node.js, Express, and MySQL.
+- 🏥 **Hospital Management System:** Centralized portal for managing patient records, appointment scheduling, and clinical department operations.
+- ☕ **Campus Cafeteria Live Queue & Pre-order System:** Real-time cafeteria queue tracking and pre-ordering web application for university students.
+- 📜 **Digital Campus Clearance & Property Management:** Automated student clearance workflows and institutional asset tracking system.
 ---
 
 ### 🛠️ Tech Stack & Tools
