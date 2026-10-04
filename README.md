@@ -142,34 +142,40 @@
 </p>
 
 ---
+<!-- Daily Developer Quote -->
+<blockquote align="center">
+  💡 <b>Daily Developer Quote</b><br>
+  <i>"Life is short—coding brings me pure joy. I don't over-engineer; I build simply with pure functions and enjoy every line."</i><br>
+  — <b>Tsegish</b>
+</blockquote>
 
-<!-- GitHub README markdown format -->
-> 💡 **Daily Developer Quote**  
-> *"Life is short—coding brings me pure joy. I don't over-engineer; I build simply with pure functions and enjoy every line."*  
-> — **Tsegish**
+<br>
 
-### 📫 Connect with Me
+<!-- Connect with Me Section -->
+<h3 align="center">📫 Connect with Me</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/tsegish86" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://t.me/YOUR_TELEGRAM_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  <!-- Telegram -->
+  <a href="https://t.me/Tsegazeab2020" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-24A1DE?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-  <a href="https://twitter.com/YOUR_TWITTER_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
+  <!-- X (Twitter) -->
+  <a href="https://twitter.com/tsegazeab2020t" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" />
   </a>
-  <a href="https://youtube.com/@YOUR_YOUTUBE_HANDLE" target="_blank">
+  <!-- YouTube -->
+  <a href="https://www.youtube.com/@TsegaZeab12" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <!-- Gmail -->
+  <a href="mailto:tsegazeab860@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tsegazeab86&color=brightgreen&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </p>
