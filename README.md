@@ -24,7 +24,7 @@
     <td width="60%" valign="top">
       <h3>💫 About Me</h3>
       <ul>
-        <li>🎓 <b>Education:</b> 3rd Year Computer Science Student</li>
+        <li>🎓 <b>Education:</b> 3rd Year Computer Science Student at injibara university 🎓 </li>
         <li>💻 <b>Focus:</b> Full-Stack Web Development (MERN, SQL)</li>
         <li>🚀 <b>Currently Building:</b> Scalable Web Apps & Real-Time APIs</li>
         <li>⚡ <b>Passion:</b> System Architecture, Problem Solving & UI/UX</li>
