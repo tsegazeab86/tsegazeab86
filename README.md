@@ -5,7 +5,7 @@
 
 <!-- Animated Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=818CF8&center=true&vCenter=true&width=720&lines=Welcome+to+my+GitHub+profile!;Computer+Science+Student;Full-Stack+Developer;Clean+Code.+Solid+Architecture.+Real+Impact." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=818CF8&center=true&vCenter=true&width=720&lines=Welcome+to+my+GitHub+profile!;3rd year Computer+Science+Student;Full-Stack+Developer;Clean+Code.+Solid+Architecture.+Real+Impact." alt="Typing SVG" />
 </p>
 
 <!-- Profile Badges -->
