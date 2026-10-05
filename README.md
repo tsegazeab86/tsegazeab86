@@ -19,7 +19,7 @@
 <!-- ===================== ABOUT ME ===================== -->
 <table>
   <tr>
-    <td width="60%" valign="top">
+    <td width="75%" valign="top">
       <h3>💫 About Me</h3>
       <ul>
         <li>🎓 <b>Education:</b> 3rd Year Computer Science Student at Injibara University</li>
@@ -28,8 +28,8 @@
         <li>⚡ <b>Passion:</b> System Architecture, Problem Solving & Web Performance</li>
       </ul>
     </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="./e.gif" width="100%" alt="Developer Working" />
+    <td width="25%" align="center" valign="middle">
+      <img src="./e.gif" width="180" style="max-width: 180px; border-radius: 10px;" alt="Developer Working" />
     </td>
   </tr>
 </table>
@@ -116,9 +116,10 @@
   <tr>
     <td width="22%" valign="middle"><b>Frontend</b></td>
     <td>
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
       <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
     </td>
   </tr>
@@ -133,7 +134,6 @@
     <td valign="middle"><b>Database & Cloud</b></td>
     <td>
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
     </td>
   </tr>
@@ -152,7 +152,7 @@
 <h3 align="center">📊 GitHub Analytics</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tsegazeab86&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsegazeab86&layout=compact&theme=midnight-purple&hide_border=true&langs_count=6" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsegazeab86&layout=compact&theme=midnight-purple&hide_border=true&langs_count=5&hide=php,swift,c%2B%2B" width="48%" alt="Most Used Languages: HTML, CSS, JS, Node, Express" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tsegazeab86&theme=midnight-purple&hide_border=true" width="60%" alt="GitHub Streak" />
