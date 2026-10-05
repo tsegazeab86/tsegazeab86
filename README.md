@@ -1,8 +1,7 @@
 <!-- ===================== HEADER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,45:3730A3,100:6366F1&height=230&section=header&text=Hi%20there%2C%20I'm%20Tsegaye%20Mekonnen&fontSize=40&fontColor=ffffff&fontAlignY=40&desc=MERN-Stack%20Developer%20%C2%B7%20Computer%20Science%20Student&descSize=17&descAlignY=63&animation=fadeIn" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff007f,25:7928ca,50:00dfd8,75:ff4e50,100:f9d423&height=250&section=header&text=Hi%20there%2C%20I'm%20Tsegaye%20Mekonnen&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=MERN-Stack%20Developer%20%C2%B7%20Computer%20Science%20Student&descSize=18&descAlignY=62&animation=twinkling&stroke=ffffff&strokeWidth=1" width="100%" alt="Header Banner" />
 </p>
-
 <p align="center">
   <a href="https://github.com/demolab/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=818CF8&center=true&vCenter=true&multiline=false&width=720&height=50&lines=Welcome+to+my+GitHub+profile!;MERN-Stack+Developer;Computer+Science+Student;Building+Scalable+Web+Apps+%26+APIs" alt="Dynamic Typing SVG" />
@@ -117,7 +116,7 @@
 </table>
 
 <!-- ===================== TECH STACK ===================== -->
-<h3>🛠️️ Tech Stack & Tools</h3>
+<h3>🛠 Tech Stack & Tools</h3>
 <table width="100%">
   <tr>
     <td width="22%" valign="middle"><b>Frontend</b></td>
@@ -162,7 +161,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tsegazeab86&theme=midnight-purple&hide_border=true" width="48%" alt="GitHub Streak" />
 </p>
 
-<!-- Most Used Languages & Proficiency Bars Section -->
+<!-- 🚀 Most Used Languages & Proficiency Bars Section (Clean Badges) -->
 <div align="center">
   <table width="95%" style="border-collapse: collapse; border: none;">
     <tr>
@@ -172,31 +171,31 @@
     </tr>
     <tr>
       <td width="50%" valign="middle" style="padding: 10px;">
-        <img src="https://img.shields.io/badge/HTML5-80%25-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 80%" /><br />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /><br />
         <img src="https://geps.dev/progress/80?dangerColor=818CF8&warningColor=6366F1&successColor=3730A3" width="90%" alt="HTML 80%" />
       </td>
       <td width="50%" valign="middle" style="padding: 10px;">
-        <img src="https://img.shields.io/badge/CSS3-78%25-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 78%" /><br />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /><br />
         <img src="https://geps.dev/progress/78?dangerColor=818CF8&warningColor=6366F1&successColor=3730A3" width="90%" alt="CSS 78%" />
       </td>
     </tr>
     <tr>
       <td width="50%" valign="middle" style="padding: 10px;">
-        <img src="https://img.shields.io/badge/JavaScript-60%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript 60%" /><br />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /><br />
         <img src="https://geps.dev/progress/60?dangerColor=818CF8&warningColor=6366F1&successColor=3730A3" width="90%" alt="JavaScript 60%" />
       </td>
       <td width="50%" valign="middle" style="padding: 10px;">
-        <img src="https://img.shields.io/badge/Node.js-79%25-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js 79%" /><br />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /><br />
         <img src="https://geps.dev/progress/79?dangerColor=818CF8&warningColor=6366F1&successColor=3730A3" width="90%" alt="Node.js 79%" />
       </td>
     </tr>
     <tr>
       <td width="50%" valign="middle" style="padding: 10px;">
-        <img src="https://img.shields.io/badge/Express.js-50%25-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js 50%" /><br />
+        <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" /><br />
         <img src="https://geps.dev/progress/50?dangerColor=818CF8&warningColor=6366F1&successColor=3730A3" width="90%" alt="Express.js 50%" />
       </td>
       <td width="50%" valign="middle" style="padding: 10px;">
-        <img src="https://img.shields.io/badge/MySQL-80%25-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL 80%" /><br />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /><br />
         <img src="https://geps.dev/progress/80?dangerColor=818CF8&warningColor=6366F1&successColor=3730A3" width="90%" alt="MySQL 80%" />
       </td>
     </tr>
