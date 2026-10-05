@@ -117,7 +117,7 @@
 </table>
 
 <!-- ===================== TECH STACK ===================== -->
-<h3>🛠️ Tech Stack & Tools</h3>
+<h3>🛠️️ Tech Stack & Tools</h3>
 <table width="100%">
   <tr>
     <td width="22%" valign="middle"><b>Frontend</b></td>
@@ -154,53 +154,54 @@
   </tr>
 </table>
 
-<!-- ===================== ANALYTICS & SKILLS ===================== -->
+<!-- ===================== ANALYTICS & CORE PROFICIENCY ===================== -->
 <h3 align="center">📊 GitHub Analytics & Core Proficiency</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tsegazeab86&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsegazeab86&layout=compact&theme=midnight-purple&hide_border=true&langs_count=5&hide=php,swift,c%2B%2B" width="48%" alt="Most Used Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tsegazeab86&theme=midnight-purple&hide_border=true" width="48%" alt="GitHub Streak" />
 </p>
 
-<!-- Skill Proficiency Progress Breakdown -->
+<!-- Most Used Languages & Proficiency Bars Section -->
 <div align="center">
-  <table width="90%">
+  <table width="95%" style="border-collapse: collapse; border: none;">
     <tr>
-      <td width="50%" valign="top">
-        <b>HTML5</b> (80%)<br />
-        <img src="https://geps.dev/progress/80?dangerColor=818CF8&warningColor=6366F1&successColor=3730A3" width="100%" alt="HTML 80%" />
+      <th colspan="2" align="center">
+        <h3>⚡ Most Used Languages & Skills</h3>
+      </th>
+    </tr>
+    <tr>
+      <td width="50%" valign="middle" style="padding: 10px;">
+        <img src="https://img.shields.io/badge/HTML5-80%25-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 80%" /><br />
+        <img src="https://geps.dev/progress/80?dangerColor=818CF8&warningColor=6366F1&successColor=3730A3" width="90%" alt="HTML 80%" />
       </td>
-      <td width="50%" valign="top">
-        <b>CSS3</b> (78%)<br />
-        <img src="https://geps.dev/progress/78?dangerColor=818CF8&warningColor=6366F1&successColor=3730A3" width="100%" alt="CSS 78%" />
+      <td width="50%" valign="middle" style="padding: 10px;">
+        <img src="https://img.shields.io/badge/CSS3-78%25-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 78%" /><br />
+        <img src="https://geps.dev/progress/78?dangerColor=818CF8&warningColor=6366F1&successColor=3730A3" width="90%" alt="CSS 78%" />
       </td>
     </tr>
     <tr>
-      <td width="50%" valign="top">
-        <b>JavaScript</b> (60%)<br />
-        <img src="https://geps.dev/progress/60?dangerColor=818CF8&warningColor=6366F1&successColor=3730A3" width="100%" alt="JavaScript 60%" />
+      <td width="50%" valign="middle" style="padding: 10px;">
+        <img src="https://img.shields.io/badge/JavaScript-60%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript 60%" /><br />
+        <img src="https://geps.dev/progress/60?dangerColor=818CF8&warningColor=6366F1&successColor=3730A3" width="90%" alt="JavaScript 60%" />
       </td>
-      <td width="50%" valign="top">
-        <b>Node.js</b> (79%)<br />
-        <img src="https://geps.dev/progress/79?dangerColor=818CF8&warningColor=6366F1&successColor=3730A3" width="100%" alt="Node.js 79%" />
+      <td width="50%" valign="middle" style="padding: 10px;">
+        <img src="https://img.shields.io/badge/Node.js-79%25-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js 79%" /><br />
+        <img src="https://geps.dev/progress/79?dangerColor=818CF8&warningColor=6366F1&successColor=3730A3" width="90%" alt="Node.js 79%" />
       </td>
     </tr>
     <tr>
-      <td width="50%" valign="top">
-        <b>Express.js</b> (50%)<br />
-        <img src="https://geps.dev/progress/50?dangerColor=818CF8&warningColor=6366F1&successColor=3730A3" width="100%" alt="Express.js 50%" />
+      <td width="50%" valign="middle" style="padding: 10px;">
+        <img src="https://img.shields.io/badge/Express.js-50%25-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js 50%" /><br />
+        <img src="https://geps.dev/progress/50?dangerColor=818CF8&warningColor=6366F1&successColor=3730A3" width="90%" alt="Express.js 50%" />
       </td>
-      <td width="50%" valign="top">
-        <b>MySQL</b> (80%)<br />
-        <img src="https://geps.dev/progress/80?dangerColor=818CF8&warningColor=6366F1&successColor=3730A3" width="100%" alt="MySQL 80%" />
+      <td width="50%" valign="middle" style="padding: 10px;">
+        <img src="https://img.shields.io/badge/MySQL-80%25-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL 80%" /><br />
+        <img src="https://geps.dev/progress/80?dangerColor=818CF8&warningColor=6366F1&successColor=3730A3" width="90%" alt="MySQL 80%" />
       </td>
     </tr>
   </table>
 </div>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tsegazeab86&theme=midnight-purple&hide_border=true" width="60%" alt="GitHub Streak" />
-</p>
 
 <!-- ===================== PHILOSOPHY ===================== -->
 <h3>💡 Philosophy</h3>
