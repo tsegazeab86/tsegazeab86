@@ -4,7 +4,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/demolab/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=818CF8&center=true&vCenter=true&multiline=false&width=720&height=50&lines=Welcome+to+my+GitHub+profile!;MERN-Stack+Developer;Computer+Science+Student;Building+Scalable+Web+Apps+%26+APIs" alt="Dynamic Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=818CF8&center=true&vCenter=true&multiline=false&width=720&height=50&lines=Welcome+to+my+GitHub+profile!;MERN-Stack+Developer;Computer+Science+Student;" alt="Dynamic Typing SVG" />
   </a>
 </p>
 
