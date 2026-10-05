@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/demolab/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=818CF8&center=true&vCenter=true&multiline=false&width=720&height=40&lines=Welcome+to+my+GitHub+profile!;3rd+Year+Computer+Science+Student;Full-Stack+Developer+(MERN+%2B+SQL);HTML%2C+CSS%2C+JS%2C+Express.js%2C+Node.js%2C+MySQL;Clean+Code.+Solid+Architecture.+Real+Impact." alt="Dynamic Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=818CF8&center=true&vCenter=true&multiline=false&width=720&height=40&lines=Welcome+to+my+GitHub+profile!;3rd+Year+Computer+Science+Student;Full-Stack+Developer+(MERN+%2B+SQL);HTML%2C+CSS%2C+JS%2C+Node.js%2C+Express.js%2C+MySQL;Clean+Code.+Solid+Architecture.+Real+Impact." alt="Dynamic Typing SVG" />
   </a>
 </p>
 
@@ -24,13 +24,13 @@
     <td width="78%" valign="top">
       <h3>💫 About Me</h3>
       <p>
-        I am an enthusiastic <b>Full-Stack Web Developer</b> and 3rd-year <b>Computer Science Student</b> at Injibara University. I focus on constructing high-performance web applications, robust RESTful APIs, and efficient database architectures.
+        I am a passionate <b>Full-Stack Developer</b> and 3rd-year <b>Computer Science Student</b> at Injibara University. I focus on engineering reliable backend systems, interactive web applications, and optimized database solutions.
       </p>
       <ul>
         <li>🎓 <b>Education:</b> 3rd Year Computer Science Student at Injibara University</li>
-        <li>💻 <b>Core Tech Stack:</b> HTML5, CSS3, JavaScript, Express.js, Node.js, MySQL & React</li>
-        <li>🚀 <b>Currently Building:</b> Scalable Full-Stack Applications & Real-Time APIs</li>
-        <li>⚡ <b>Passions:</b> Software Architecture, Modern UI/UX Design & Algorithmic Problem Solving</li>
+        <li>💻 <b>Core Stack:</b> HTML, CSS, JavaScript, Node.js, Express.js, MySQL & React</li>
+        <li>🚀 <b>Currently Building:</b> Full-Stack Web Applications & RESTful APIs</li>
+        <li>⚡ <b>Focus Areas:</b> System Architecture, Database Management & Modern UI/UX</li>
       </ul>
     </td>
     <td width="22%" align="center" valign="middle">
@@ -44,9 +44,9 @@
 <!-- ===================== CAREER GOALS ===================== -->
 <h3>🎯 Career Goals</h3>
 
-- 🌟 Master distributed systems, microservices, and cloud-native backend architecture.
-- 🚀 Develop and deploy high-impact, full-stack open-source projects.
-- 💡 Actively contribute to developer communities and mentor aspiring programmers.
+- 🌟 Master distributed systems and backend architecture at scale.
+- 🚀 Develop and maintain robust, open-source web platforms.
+- 💡 Collaborate with global developer communities and mentor upcoming engineers.
 
 ---
 
@@ -55,20 +55,20 @@
 
 <table width="100%">
   <tr>
-    <td width="30%"><b>💻 Full-Stack Architecture</b></td>
-    <td>Optimization and scaling of modern web applications using Express, Node.js, and MySQL</td>
+    <td width="30%"><b>💻 Full-Stack Development</b></td>
+    <td>High-performance web architecture using HTML, CSS, JavaScript, Node.js, Express, and MySQL</td>
   </tr>
   <tr>
     <td><b>🧠 AI & Web Integration</b></td>
-    <td>Integrating intelligent machine learning models and automated workflows into web platforms</td>
+    <td>Embedding intelligent machine learning models into modern full-stack workflows</td>
   </tr>
   <tr>
     <td><b>⚡ Distributed Systems</b></td>
-    <td>High-throughput database design, efficient caching strategies, and asynchronous API design</td>
+    <td>Relational database optimization, asynchronous API design, and system scalability</td>
   </tr>
   <tr>
     <td><b>🔐 Web Security</b></td>
-    <td>JWT authentication protocols, session security, and API rate limiting</td>
+    <td>JWT authentication, secure session handling, and backend protection</td>
   </tr>
 </table>
 
@@ -82,7 +82,7 @@
   <tr>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/tsegazeab86/Evangadi-forum">💬 Evangadi Forum</a></h4>
-      <p>Interactive full-stack Q&A platform for students and instructors featuring real-time posting and secure authentication.</p>
+      <p>Interactive full-stack Q&A platform for students and instructors featuring real-time posting and authentication.</p>
       <p>
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
@@ -91,7 +91,7 @@
     </td>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/tsegazeab86/Hospital-Management-System">🏥 Hospital Management System</a></h4>
-      <p>Centralized platform for managing patient records, appointment scheduling, and clinical department operations.</p>
+      <p>Centralized portal for managing patient records, scheduling appointments, and overseeing clinical operations.</p>
       <p>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
@@ -103,7 +103,7 @@
   <tr>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/tsegazeab86/Campus-Cafeteria-Live-Queue">☕ Campus Cafeteria Live Queue</a></h4>
-      <p>Real-time cafeteria queue tracking and pre-ordering web application built to streamline campus dining operations.</p>
+      <p>Real-time cafeteria queue tracking and pre-ordering web app designed to eliminate long wait times.</p>
       <p>
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
         <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
@@ -112,7 +112,7 @@
     </td>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/tsegazeab86/Digital-Campus-Clearance">📜 Digital Campus Clearance</a></h4>
-      <p>Automated clearance workflow solution designed for institutional property management and student asset tracking.</p>
+      <p>Automated clearance workflow solution for institutional property management and asset tracking.</p>
       <p>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
@@ -148,8 +148,8 @@
   <tr>
     <td valign="middle"><b>Backend</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
       <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
     </td>
   </tr>
   <tr>
@@ -182,7 +182,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tsegazeab86&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsegazeab86&layout=compact&theme=midnight-purple&hide_border=true&langs_count=6&hide=c++,php,swift,c,python" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsegazeab86&layout=compact&theme=midnight-purple&hide_border=true&langs_count=6" width="48%" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -192,7 +192,7 @@
 <!-- ===================== PHILOSOPHY ===================== -->
 <h3>💡 Core Philosophy</h3>
 
-> *"Software engineering is about crafting simple, scalable, and elegant solutions to complex real-world problems. I build cleanly, leverage pure functions, and enjoy every line of code I write."*
+> *"Software development is about crafting simple, efficient, and reliable solutions to real-world problems. I focus on building clean architecture and continuous learning."*
 > — **Tsegish**
 
 ---
