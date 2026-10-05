@@ -19,17 +19,23 @@
 <!-- ===================== ABOUT ME ===================== -->
 <table>
   <tr>
-    <td width="75%" valign="top">
-      <h3>💫 About Me</h3>
+    <td width="72%" valign="top">
+      <h3>✨ About Me</h3>
+      <p>
+        Hello! I'm <b>Tsegaye Mekonnen</b> (<i>Tsegish</i>), a driven <b>3rd-Year Computer Science Student</b> at Injibara University and a passionate <b>Full-Stack Developer</b> specializing in the MERN stack and relational databases.
+      </p>
+      <p>
+        I focus on architecting modern, high-performance web applications—from designing intuitive frontends to building secure, scalable RESTful APIs and optimized SQL database structures.
+      </p>
       <ul>
-        <li>🎓 <b>Education:</b> 3rd Year Computer Science Student at Injibara University</li>
-        <li>💻 <b>Focus:</b> MERN-Stack Development & SQL Systems</li>
-        <li>🚀 <b>Currently Building:</b> Scalable Web Applications & Real-Time RESTful APIs</li>
-        <li>⚡ <b>Passion:</b> System Architecture, Problem Solving & Web Performance</li>
+        <li>🎓 <b>Education:</b> B.Sc. in Computer Science — Injibara University</li>
+        <li>💻 <b>Core Expertise:</b> React.js, Node.js, Express, JavaScript & MySQL</li>
+        <li>🚀 <b>Current Focus:</b> Designing modular backend systems & real-time APIs</li>
+        <li>⚡ <b>Hobbies & Interests:</b> System architecture, UI/UX aesthetics & open-source collaboration</li>
       </ul>
     </td>
-    <td width="25%" align="center" valign="middle">
-      <img src="./e.gif" width="180" style="max-width: 180px; border-radius: 10px;" alt="Developer Working" />
+    <td width="28%" align="center" valign="middle">
+      <img src="./e.gif" width="150" style="max-width: 150px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);" alt="Developer Working" />
     </td>
   </tr>
 </table>
@@ -37,7 +43,7 @@
 <!-- ===================== CAREER GOALS ===================== -->
 <h3>🎯 Career Goals</h3>
 <p>
-  🌟 Master distributed systems and modern backend architecture.<br />
+  🌟 Master distributed systems and cloud backend architecture.<br />
   🚀 Build and deploy high-impact, full-stack open-source projects.<br />
   💡 Collaborate with developer communities and mentor aspiring engineers.
 </p>
@@ -47,7 +53,7 @@
 <table width="100%">
   <tr>
     <td width="30%"><b>💻 Full-Stack Architecture</b></td>
-    <td>Design, optimization, and scaling of high-performance MERN applications</td>
+    <td>Design, optimization, and scaling of high-performance web applications</td>
   </tr>
   <tr>
     <td><b>🧠 AI & Web Integration</b></td>
@@ -148,12 +154,50 @@
   </tr>
 </table>
 
-<!-- ===================== ANALYTICS ===================== -->
-<h3 align="center">📊 GitHub Analytics</h3>
+<!-- ===================== ANALYTICS & SKILLS ===================== -->
+<h3 align="center">📊 GitHub Analytics & Core Proficiency</h3>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tsegazeab86&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsegazeab86&layout=compact&theme=midnight-purple&hide_border=true&langs_count=5&hide=php,swift,c%2B%2B" width="48%" alt="Most Used Languages: HTML, CSS, JS, Node, Express" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsegazeab86&layout=compact&theme=midnight-purple&hide_border=true&langs_count=5&hide=php,swift,c%2B%2B" width="48%" alt="Most Used Languages" />
 </p>
+
+<!-- Skill Proficiency Progress Breakdown -->
+<div align="center">
+  <table width="90%">
+    <tr>
+      <td width="50%" valign="top">
+        <b>HTML5</b> (80%)<br />
+        <img src="https://geps.dev/progress/80?dangerColor=818CF8&warningColor=6366F1&successColor=3730A3" width="100%" alt="HTML 80%" />
+      </td>
+      <td width="50%" valign="top">
+        <b>CSS3</b> (78%)<br />
+        <img src="https://geps.dev/progress/78?dangerColor=818CF8&warningColor=6366F1&successColor=3730A3" width="100%" alt="CSS 78%" />
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <b>JavaScript</b> (60%)<br />
+        <img src="https://geps.dev/progress/60?dangerColor=818CF8&warningColor=6366F1&successColor=3730A3" width="100%" alt="JavaScript 60%" />
+      </td>
+      <td width="50%" valign="top">
+        <b>Node.js</b> (79%)<br />
+        <img src="https://geps.dev/progress/79?dangerColor=818CF8&warningColor=6366F1&successColor=3730A3" width="100%" alt="Node.js 79%" />
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <b>Express.js</b> (50%)<br />
+        <img src="https://geps.dev/progress/50?dangerColor=818CF8&warningColor=6366F1&successColor=3730A3" width="100%" alt="Express.js 50%" />
+      </td>
+      <td width="50%" valign="top">
+        <b>MySQL</b> (80%)<br />
+        <img src="https://geps.dev/progress/80?dangerColor=818CF8&warningColor=6366F1&successColor=3730A3" width="100%" alt="MySQL 80%" />
+      </td>
+    </tr>
+  </table>
+</div>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tsegazeab86&theme=midnight-purple&hide_border=true" width="60%" alt="GitHub Streak" />
 </p>
