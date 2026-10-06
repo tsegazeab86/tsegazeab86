@@ -45,9 +45,8 @@ I'm a **third-year Computer Science student** and **full-stack developer** who t
 <td width="35%" valign="middle" align="center">
   <img
     src="./e.gif"
-    width="280"
-    height="180"
-    alt="Developer coding animation"
+    height="160"
+    alt="Coding GIF"
   />
 </td>
 </table>
