@@ -64,66 +64,68 @@
     <td><b>🔐 Web Security</b></td>
     <td>JWT authentication, authorization protocols, and API rate limiting</td>
   </tr>
-</table>
-<!-- ===================== FEATURED PROJECTS ===================== -->
+</table><!-- ===================== FEATURED PROJECTS ===================== -->
 <h3>📌 Featured Projects</h3>
 
 <table width="100%" cellspacing="10" cellpadding="0" style="border-collapse: separate; border-spacing: 12px;">
   <!-- Row 1 -->
   <tr>
+    <!-- Netflix Clone (Live Demo) -->
     <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 10px; padding: 16px; background-color: #0d1117;">
       <h4>
         <a href="https://netflix-clone-seven-mocha-66.vercel.app/" target="_blank" style="text-decoration: none;">
-          🎬 Netflix Clone
+          🎬 Netflix Clone 🚀
         </a>
       </h4>
-      <p>A feature-rich streaming web application built with React, replicating Netflix UI with dynamic movie trailers and responsive design.</p>
+      <p>A feature-rich streaming web application built with React, replicating Netflix UI with dynamic movie trailers.</p>
       <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-        <img src="https://img.shields.io/badge/TMDB_API-01B4E4?style=for-the-badge&logo=themoviedatabase&logoColor=white" alt="TMDB API" />
+        <img src="https://img.shields.io/badge/Status-Live_Demo-success?style=flat-square" alt="Status" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
       </p>
     </td>
+
+    <!-- Hospital Management System -->
     <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 10px; padding: 16px; background-color: #0d1117;">
       <h4>
-        <a href="https://github.com/tsegazeab86/Hospital-Management-System" style="text-decoration: none;">
+        <a href="https://github.com/tsegazeab86/Hospital-Management-System" target="_blank" style="text-decoration: none;">
           🏥 Hospital Management System
         </a>
       </h4>
-      <p>Centralized portal for managing patient records, appointment scheduling, and clinical department operations.</p>
+      <p>Centralized portal for managing patient records, appointment scheduling, and clinical operations.</p>
       <p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+        <img src="https://img.shields.io/badge/Status-In_Development-orange?style=flat-square" alt="Status" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
       </p>
     </td>
   </tr>
+
   <!-- Row 2 -->
   <tr>
+    <!-- Campus Cafeteria Live Queue -->
     <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 10px; padding: 16px; background-color: #0d1117;">
       <h4>
-        <a href="https://github.com/tsegazeab86/Campus-Cafeteria-Live-Queue" style="text-decoration: none;">
+        <a href="https://github.com/tsegazeab86/Campus-Cafeteria-Live-Queue" target="_blank" style="text-decoration: none;">
           ☕ Campus Cafeteria Live Queue
         </a>
       </h4>
       <p>Real-time cafeteria queue tracking and pre-ordering web application for university students.</p>
       <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-        <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+        <img src="https://img.shields.io/badge/Status-Building_In_Progress-yellow?style=flat-square" alt="Status" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
       </p>
     </td>
+
+    <!-- Digital Campus Clearance -->
     <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 10px; padding: 16px; background-color: #0d1117;">
       <h4>
-        <a href="https://github.com/tsegazeab86/Digital-Campus-Clearance" style="text-decoration: none;">
+        <a href="https://github.com/tsegazeab86/Digital-Campus-Clearance" target="_blank" style="text-decoration: none;">
           📜 Digital Campus Clearance
         </a>
       </h4>
       <p>Automated student clearance workflows and institutional property management asset tracking system.</p>
       <p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+        <img src="https://img.shields.io/badge/Status-Under_Construction-important?style=flat-square" alt="Status" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
       </p>
     </td>
   </tr>
