@@ -14,6 +14,7 @@
   <img src="https://img.shields.io/github/followers/tsegazeab86?style=for-the-badge&logo=github&color=0B1020" alt="Followers" />
   <img src="https://img.shields.io/github/stars/tsegazeab86?style=for-the-badge&logo=github&color=3730A3" alt="Stars" />
 </p>
+
 <!-- ===================== ABOUT ME ===================== -->
 <table border="0">
   <tr>
@@ -37,6 +38,7 @@
     </td>
   </tr>
 </table>
+
 <!-- ===================== CAREER GOALS ===================== -->
 <h3>🎯 Career Goals</h3>
 <p>
@@ -64,7 +66,9 @@
     <td><b>🔐 Web Security</b></td>
     <td>JWT authentication, authorization protocols, and API rate limiting</td>
   </tr>
-</table><!-- ===================== FEATURED PROJECTS ===================== -->
+</table>
+
+<!-- ===================== FEATURED PROJECTS ===================== -->
 <h3>📌 Featured Projects</h3>
 
 <table width="100%" cellspacing="10" cellpadding="0" style="border-collapse: separate; border-spacing: 12px;">
@@ -177,7 +181,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tsegazeab86&theme=midnight-purple&hide_border=true" width="48%" alt="GitHub Streak" />
 </p>
 
-<!-- 🚀 Most Used Languages & Proficiency Bars Section (Clean Badges) -->
+<!-- 🚀 Most Used Languages & Proficiency Bars Section -->
 <div align="center">
   <table width="95%" style="border-collapse: collapse; border: none;">
     <tr>
