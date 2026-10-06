@@ -42,11 +42,11 @@ I'm a **third-year Computer Science student** and **full-stack developer** who t
     <td>System architecture, problem solving, and UI/UX</td>
   </tr>
 </table>
-
 <td width="35%" valign="middle" align="center">
   <img
     src="./e.gif"
     width="280"
+    height="180"
     alt="Developer coding animation"
   />
 </td>
