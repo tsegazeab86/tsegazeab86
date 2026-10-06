@@ -1,4 +1,4 @@
-<!-- ===================== HEADER ===================== -->
+<!-- ===================== HEADER   -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff007f,25:7928ca,50:00dfd8,75:ff4e50,100:f9d423&height=250&section=header&text=Hi%20there%2C%20I'm%20Tsegaye%20Mekonnen&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=MERN-Stack%20Developer%20%C2%B7%20Computer%20Science%20Student&descSize=18&descAlignY=62&animation=twinkling&stroke=ffffff&strokeWidth=1" width="100%" alt="Header Banner" />
 </p>
