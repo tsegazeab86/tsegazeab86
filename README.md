@@ -1,10 +1,10 @@
 <!-- ===================== HEADER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,45:3730A3,100:6366F1&height=230&section=header&text=Hi%20there%2C%20I'm%20Tsegaye%20Mekonnen&fontSize=40&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Developer%20%C2%B7%20MERN%20Stack%20%C2%B7%20Computer%20Science%20Student&descSize=17&descAlignY=63&animation=twinkling" width="100%" alt="Hi there, I'm Tsegaye Mekonnen" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,45:3730A3,100:6366F1&height=230&section=header&text=Hi%20there%2C%20I'm%20Tsegaye%20Mekonnen&fontSize=40&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Developer%20%C2%B7%20MERN%20Stack%20%C2%B7%20Computer%20Science%20Student&descSize=17&descAlignY=63&animation=twinkle" width="100%" alt="Hi there, I'm Tsegaye Mekonnen" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=818CF8&center=true&vCenter=true&width=720&lines=%5B+Loading+profile...%5D;%5B+Compiling+skills...%5D;Welcome+to+my+GitHub+profile;Building+scalable+web+applications;React+%26+Node.js+Developer;Clean+code.+Solid+architecture.+Real+impact." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=818CF8&center=true&vCenter=true&width=720&lines=Welcome+to+my+GitHub+profile;Building+scalable+web+applications;React+%26+Node.js+Developer;Loading+awesome+projects...;Clean+code.+Solid+architecture.+Real+impact." alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -20,35 +20,32 @@
 
 <table width="100%">
   <tr>
-    <td width="65%" valign="top">
-
-I'm a **third-year Computer Science student** and **full-stack developer** who turns real-world problems into reliable, well-structured web applications. I care about clean architecture, performance, and a smooth user experience.
-
-<table width="100%">
-  <tr>
-    <td width="35%"><b>🎓 Education</b></td>
-    <td>B.Sc. Computer Science (3rd Year)</td>
+    <td width="60%" valign="top">
+      <p>I'm a <b>third-year Computer Science student</b> and <b>full-stack developer</b> who turns real-world problems into reliable, well-structured web applications. I care about clean architecture, performance, and a smooth user experience.</p>
+      <br />
+      <table>
+        <tr>
+          <td><b>🎓 Education</b></td>
+          <td>B.Sc. Computer Science (3rd Year)</td>
+        </tr>
+        <tr>
+          <td><b>💻 Focus</b></td>
+          <td>Full-Stack Web Development: MERN, PHP, SQL</td>
+        </tr>
+        <tr>
+          <td><b>🚀 Currently Building</b></td>
+          <td>Scalable web applications and real-time APIs</td>
+        </tr>
+        <tr>
+          <td><b>⚡ Passion</b></td>
+          <td>System architecture, problem solving, and UI/UX</td>
+        </tr>
+      </table>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%" style="border-radius:10px;" alt="Coding GIF" />
+    </td>
   </tr>
-  <tr>
-    <td><b>💻 Focus</b></td>
-    <td>Full-Stack Web Development: MERN, PHP, SQL</td>
-  </tr>
-  <tr>
-    <td><b>🚀 Currently Building</b></td>
-    <td>Scalable web applications and real-time APIs</td>
-  </tr>
-  <tr>
-    <td><b>⚡ Passion</b></td>
-    <td>System architecture, problem solving, and UI/UX</td>
-  </tr>
-</table>
-<td width="35%" valign="middle" align="center">
-  <img
-    src="./e.gif"
-    height="160"
-    alt="Coding GIF"
-  />
-</td>
 </table>
 
 ---
@@ -71,22 +68,22 @@ I'm a **third-year Computer Science student** and **full-stack developer** who t
     <td>Architecture and optimization of scalable, high-performance MERN applications</td>
   </tr>
   <tr>
-    <td><b>🧠 AI & Machine Learning</b></td>
+    <td width="30%"><b>🧠 AI & Machine Learning</b></td>
     <td>Neural networks and intelligent web integration</td>
   </tr>
   <tr>
-    <td><b>⚡ Distributed Systems</b></td>
+    <td width="30%"><b>⚡ Distributed Systems</b></td>
     <td>High-performance database management and asynchronous API design</td>
   </tr>
   <tr>
-    <td><b>🔐 Web Security</b></td>
+    <td width="30%"><b>🔐 Web Security</b></td>
     <td>JWT authentication and API rate limiting</td>
   </tr>
 </table>
 
 ---
 
-<!-- 📌 Featured Projects -->
+<!-- ===================== FEATURED PROJECTS ===================== -->
 <h3>📌 Featured Projects</h3>
 
 <table width="100%">
@@ -94,61 +91,51 @@ I'm a **third-year Computer Science student** and **full-stack developer** who t
   <tr>
     <td width="50%" valign="top">
       <h4><a href="https://netflix-clone-seven-mocha-66.vercel.app/" target="_blank">🎬 Netflix Clone</a></h4>
-      <p>A pixel-perfect Netflix clone with dynamic movie browsing, hero banner, and responsive streaming UI powered by the TMDB API.</p>
+      <p>Full-featured video streaming platform clone featuring movie browsing, trailer previews, and custom authentication.</p>
       <p>
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
-        <img src="https://img.shields.io/badge/TMDB_API-01B4CC?style=flat-square&logo=themoviedatabase&logoColor=white" alt="TMDB" />
-      </p>
-      <p>
-        <a href="https://netflix-clone-seven-mocha-66.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/🔴_LIVE_DEMO-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
-        </a>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+        <img src="https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square" alt="Status Live" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/tsegazeab86/Hospital-Management-System" target="_blank">🏥 Hospital Management System</a></h4>
+      <h4><a href="#development-phase" title="This project is currently in the development phase.">🏥 Hospital Management System</a> 🛠️</h4>
       <p>Centralized portal for managing patient records, appointment scheduling, and clinical department operations.</p>
       <p>
         <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
         <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/🚧_IN_DEVELOPMENT-FFA500?style=for-the-badge&logo=github&logoColor=white" alt="In Development" />
+        <img src="https://img.shields.io/badge/Status-In%20Development-yellow?style=flat-square" alt="In Development Phase" />
       </p>
     </td>
   </tr>
   <!-- Row 2 -->
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/tsegazeab86/Campus-Cafeteria-Live-Queue" target="_blank">☕ Campus Cafeteria Live Queue</a></h4>
+      <h4><a href="#development-phase" title="This project is currently in the development phase.">☕ Campus Cafeteria Live Queue</a> 🛠️</h4>
       <p>Real-time cafeteria queue tracking and pre-ordering web application for university students.</p>
       <p>
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
         <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/🚧_IN_DEVELOPMENT-FFA500?style=for-the-badge&logo=github&logoColor=white" alt="In Development" />
+        <img src="https://img.shields.io/badge/Status-In%20Development-yellow?style=flat-square" alt="In Development Phase" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/tsegazeab86/Digital-Campus-Clearance" target="_blank">📜 Digital Campus Clearance</a></h4>
+      <h4><a href="#development-phase" title="This project is currently in the development phase.">📜 Digital Campus Clearance</a> 🛠️</h4>
       <p>Automated student clearance workflows and institutional property management asset tracking system.</p>
       <p>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/🚧_IN_DEVELOPMENT-FFA500?style=for-the-badge&logo=github&logoColor=white" alt="In Development" />
+        <img src="https://img.shields.io/badge/Status-In%20Development-yellow?style=flat-square" alt="In Development Phase" />
       </p>
     </td>
   </tr>
 </table>
 
-> **📢 Note:** Projects marked **🚧 In Development** are actively being built. Live demos and documentation will be released soon — thanks for your patience!
+> ℹ️ *Note: Projects tagged with **`In Development`** are actively being worked on and full deployments will be published soon.*
 
 ---
 
@@ -243,4 +230,17 @@ I'm a **third-year Computer Science student** and **full-stack developer** who t
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
   <a href="https://www.youtube.com/@TsegaZeab12" target="_blank">
-    <img src
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=tsegazeab860@gmail.com&su=Hello%20Tsegaye" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
+
+<p align="center">
+  📧 <b>tsegazeab860@gmail.com</b>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,55:3730A3,100:0B1020&height=120&section=footer" width="100%" alt="Footer" />
+</p>
