@@ -67,74 +67,89 @@
     <td>JWT authentication, authorization protocols, and API rate limiting</td>
   </tr>
 </table>
-
 <!-- ===================== FEATURED PROJECTS ===================== -->
-<h3>📌 Featured Projects</h3>
+<div align="center">
+  <h2>📌 Featured Projects</h2>
+</div>
 
-<table width="100%" cellspacing="10" cellpadding="0" style="border-collapse: separate; border-spacing: 12px;">
+<table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: separate; border-spacing: 12px;">
   <!-- Row 1 -->
   <tr>
-    <!-- Netflix Clone (Live Demo) -->
-    <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 10px; padding: 16px; background-color: #0d1117;">
-      <h4>
-        <a href="https://netflix-clone-seven-mocha-66.vercel.app/" target="_blank" style="text-decoration: none;">
-          🎬 Netflix Clone 🚀
+    <!-- Netflix Clone -->
+    <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 8px; padding: 18px; background-color: #0d1117;">
+      <h3 style="margin-top: 0; margin-bottom: 8px;">
+        <a href="https://netflix-clone-seven-mocha-66.vercel.app/" target="_blank" style="text-decoration: none; color: #58a6ff;">
+          🎬 Netflix Clone
         </a>
-      </h4>
-      <p>A feature-rich streaming web application built with React, replicating Netflix UI with dynamic movie trailers.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Status-Live_Demo-success?style=flat-square" alt="Status" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+      </h3>
+      <p style="color: #8b949e; font-size: 14px; line-height: 1.5; margin-bottom: 12px;">
+        A high-performance streaming web application replicating the core Netflix UX with responsive UI components and real-time dynamic movie trailers.
       </p>
+      <div>
+        <a href="https://netflix-clone-seven-mocha-66.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/Status-Live_Demo-2ea44f?style=flat-square" alt="Live Demo" />
+        </a>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+      </div>
     </td>
 
     <!-- Hospital Management System -->
-    <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 10px; padding: 16px; background-color: #0d1117;">
-      <h4>
-        <a href="https://github.com/tsegazeab86/Hospital-Management-System" target="_blank" style="text-decoration: none;">
+    <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 8px; padding: 18px; background-color: #0d1117;">
+      <h3 style="margin-top: 0; margin-bottom: 8px;">
+        <a href="https://github.com/tsegazeab86/Hospital-Management-System" target="_blank" style="text-decoration: none; color: #58a6ff;">
           🏥 Hospital Management System
         </a>
-      </h4>
-      <p>Centralized portal for managing patient records, appointment scheduling, and clinical operations.</p>
-      <p>
+      </h3>
+      <p style="color: #8b949e; font-size: 14px; line-height: 1.5; margin-bottom: 12px;">
+        A centralized healthcare portal designed for managing electronic health records (EHR), automated appointment scheduling, and clinical operations.
+      </p>
+      <div>
         <img src="https://img.shields.io/badge/Status-In_Development-orange?style=flat-square" alt="Status" />
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-      </p>
+        <img src="https://img.shields.io/badge/Database_Design-00599C?style=flat-square" alt="Database" />
+      </div>
     </td>
   </tr>
 
   <!-- Row 2 -->
   <tr>
     <!-- Campus Cafeteria Live Queue -->
-    <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 10px; padding: 16px; background-color: #0d1117;">
-      <h4>
-        <a href="https://github.com/tsegazeab86/Campus-Cafeteria-Live-Queue" target="_blank" style="text-decoration: none;">
+    <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 8px; padding: 18px; background-color: #0d1117;">
+      <h3 style="margin-top: 0; margin-bottom: 8px;">
+        <a href="https://github.com/tsegazeab86/Campus-Cafeteria-Live-Queue" target="_blank" style="text-decoration: none; color: #58a6ff;">
           ☕ Campus Cafeteria Live Queue
         </a>
-      </h4>
-      <p>Real-time cafeteria queue tracking and pre-ordering web application for university students.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Status-Building_In_Progress-yellow?style=flat-square" alt="Status" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+      </h3>
+      <p style="color: #8b949e; font-size: 14px; line-height: 1.5; margin-bottom: 12px;">
+        Real-time queue tracking and online pre-ordering platform built to optimize wait times and reduce dining congestion for university students.
       </p>
+      <div>
+        <img src="https://img.shields.io/badge/Status-In_Progress-yellow?style=flat-square" alt="Status" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+      </div>
     </td>
 
     <!-- Digital Campus Clearance -->
-    <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 10px; padding: 16px; background-color: #0d1117;">
-      <h4>
-        <a href="https://github.com/tsegazeab86/Digital-Campus-Clearance" target="_blank" style="text-decoration: none;">
+    <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 8px; padding: 18px; background-color: #0d1117;">
+      <h3 style="margin-top: 0; margin-bottom: 8px;">
+        <a href="https://github.com/tsegazeab86/Digital-Campus-Clearance" target="_blank" style="text-decoration: none; color: #58a6ff;">
           📜 Digital Campus Clearance
         </a>
-      </h4>
-      <p>Automated student clearance workflows and institutional property management asset tracking system.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Status-Under_Construction-important?style=flat-square" alt="Status" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+      </h3>
+      <p style="color: #8b949e; font-size: 14px; line-height: 1.5; margin-bottom: 12px;">
+        An automated paperless clearance workflow system for graduating students, featuring institutional asset tracking and multi-department approval pipelines.
       </p>
+      <div>
+        <img src="https://img.shields.io/badge/Status-Under_Construction-d93f0b?style=flat-square" alt="Status" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+      </div>
     </td>
   </tr>
 </table>
-
 <!-- ===================== TECH STACK ===================== -->
 <h3>🛠 Tech Stack & Tools</h3>
 <table width="100%">
