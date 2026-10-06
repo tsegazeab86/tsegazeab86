@@ -65,49 +65,65 @@
     <td>JWT authentication, authorization protocols, and API rate limiting</td>
   </tr>
 </table>
-
 <!-- ===================== FEATURED PROJECTS ===================== -->
 <h3>📌 Featured Projects</h3>
-<table width="100%">
+
+<table width="100%" cellspacing="10" cellpadding="0" style="border-collapse: separate; border-spacing: 12px;">
   <!-- Row 1 -->
   <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/tsegazeab86/Evangadi-forum">💬 Evangadi Forum</a></h4>
-      <p>Interactive full-stack Q&A platform for students and instructors with real-time posting and user authentication.</p>
+    <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 10px; padding: 16px; background-color: #0d1117;">
+      <h4>
+        <a href="https://netflix-clone-seven-mocha-66.vercel.app/" target="_blank" style="text-decoration: none;">
+          🎬 Netflix Clone
+        </a>
+      </h4>
+      <p>A feature-rich streaming web application built with React, replicating Netflix UI with dynamic movie trailers and responsive design.</p>
       <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/TMDB_API-01B4E4?style=for-the-badge&logo=themoviedatabase&logoColor=white" alt="TMDB API" />
       </p>
     </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/tsegazeab86/Hospital-Management-System">🏥 Hospital Management System</a></h4>
+    <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 10px; padding: 16px; background-color: #0d1117;">
+      <h4>
+        <a href="https://github.com/tsegazeab86/Hospital-Management-System" style="text-decoration: none;">
+          🏥 Hospital Management System
+        </a>
+      </h4>
       <p>Centralized portal for managing patient records, appointment scheduling, and clinical department operations.</p>
       <p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
       </p>
     </td>
   </tr>
   <!-- Row 2 -->
   <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/tsegazeab86/Campus-Cafeteria-Live-Queue">☕ Campus Cafeteria Live Queue</a></h4>
+    <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 10px; padding: 16px; background-color: #0d1117;">
+      <h4>
+        <a href="https://github.com/tsegazeab86/Campus-Cafeteria-Live-Queue" style="text-decoration: none;">
+          ☕ Campus Cafeteria Live Queue
+        </a>
+      </h4>
       <p>Real-time cafeteria queue tracking and pre-ordering web application for university students.</p>
       <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-        <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+        <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
       </p>
     </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/tsegazeab86/Digital-Campus-Clearance">📜 Digital Campus Clearance</a></h4>
+    <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 10px; padding: 16px; background-color: #0d1117;">
+      <h4>
+        <a href="https://github.com/tsegazeab86/Digital-Campus-Clearance" style="text-decoration: none;">
+          📜 Digital Campus Clearance
+        </a>
+      </h4>
       <p>Automated student clearance workflows and institutional property management asset tracking system.</p>
       <p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
       </p>
     </td>
   </tr>
