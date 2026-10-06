@@ -14,11 +14,10 @@
   <img src="https://img.shields.io/github/followers/tsegazeab86?style=for-the-badge&logo=github&color=0B1020" alt="Followers" />
   <img src="https://img.shields.io/github/stars/tsegazeab86?style=for-the-badge&logo=github&color=3730A3" alt="Stars" />
 </p>
-
 <!-- ===================== ABOUT ME ===================== -->
-<table>
+<table border="0">
   <tr>
-    <td width="72%" valign="top">
+    <td width="70%" valign="top">
       <h3>✨ About Me</h3>
       <p>
         Hello! I'm <b>Tsegaye Mekonnen</b> (<i>Tsegish</i>), a driven <b>3rd-Year Computer Science Student</b> at Injibara University and a passionate <b>Full-Stack Developer</b> specializing in the MERN stack and relational databases.
@@ -33,12 +32,11 @@
         <li>⚡ <b>Hobbies & Interests:</b> System architecture, UI/UX aesthetics & open-source collaboration</li>
       </ul>
     </td>
-    <td width="28%" align="center" valign="middle">
-      <img src="./e.gif" width="150" style="max-width: 150px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);" alt="Developer Working" />
+    <td width="30%" align="center" valign="middle">
+      <img src="./e.gif" width="140" style="border-radius: 10px;" alt="Developer Working" />
     </td>
   </tr>
 </table>
-
 <!-- ===================== CAREER GOALS ===================== -->
 <h3>🎯 Career Goals</h3>
 <p>
