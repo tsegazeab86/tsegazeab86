@@ -43,11 +43,13 @@ I'm a **third-year Computer Science student** and **full-stack developer** who t
   </tr>
 </table>
 
-</td>
 <td width="35%" valign="middle" align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225789194-9f6c8e3d-8b7e-4f0c-9b1a-1c2d3e4f5a6b.gif" width="100%" alt="Coding GIF" />
+  <img
+    src="./e.gif"
+    width="280"
+    alt="Developer coding animation"
+  />
 </td>
-  </tr>
 </table>
 
 ---
