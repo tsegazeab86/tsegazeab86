@@ -1,6 +1,6 @@
 <!-- ===================== HEADER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,45:3730A3,100:6366F1&height=230&section=header&text=Hi%20there%2C%20I'm%20Tsegaye%20Mekonnen&fontSize=40&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Developer%20%C2%B7%20MERN%20Stack%20%C2%B7%20Computer%20Science%20Student&descSize=17&descAlignY=63&animation=twinkle" width="100%" alt="Hi there, I'm Tsegaye Mekonnen" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,45:3730A3,100:6366F1&height=230&section=header&text=Hi%20there%2C%20I'm%20Tsegaye%20Mekonnen&fontSize=40&fontColor=ffffff&fontAlignY=40&desc=MERN-Stack%20Developer%20%C2%B7%20MERN%20Stack%20%C2%B7%20Computer%20Science%20Student&descSize=17&descAlignY=63&animation=twinkle" width="100%" alt="Hi there, I'm Tsegaye Mekonnen" />
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@
 <table width="100%">
   <tr>
     <td width="60%" valign="top">
-      <p>I'm a <b>third-year Computer Science student</b> and <b>full-stack developer</b> who turns real-world problems into reliable, well-structured web applications. I care about clean architecture, performance, and a smooth user experience.</p>
+      <p>I'm a <b>third-year Computer Science student</b> and <b>MERN-STACK developer</b> who turns real-world problems into reliable, well-structured web applications. I care about clean architecture, performance, and a smooth user experience.</p>
       <br />
       <table>
         <tr>
@@ -36,11 +36,7 @@
           <td><b>🚀 Currently Building</b></td>
           <td>Scalable web applications and real-time APIs</td>
         </tr>
-        <tr>
-          <td><b>⚡ Passion</b></td>
-          <td>System architecture, problem solving, and UI/UX</td>
-        </tr>
-      </table>
+       </table>
     </td>
     <td width="40%" align="center" valign="middle">
       <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%" style="border-radius:10px;" alt="Coding GIF" />
