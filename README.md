@@ -1,46 +1,39 @@
 <!-- ===================== HEADER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,25,50,75,100&height=250&section=header&text=Tsegaye%20Mekonnen&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%C2%B7%20Full-Stack%20Innovator&descSize=18&descAlignY=62&animation=fadeIn" width="100%" alt="Tsegaye Mekonnen Header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,4,15,30,50&height=220&section=header&text=Tsegaye%20Mekonnen&fontSize=44&fontColor=00FFCC&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20Architect&descSize=18&descAlignY=65&fontColor=FFFFFF&animation=scaleIn" width="100%" alt="Header" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00FFCC&center=true&vCenter=true&width=750&lines=Welcome+to+my+digital+universe!;Engineering+scalable+web+solutions;MERN+%26+Full-Stack+Architect;Building+the+future+of+web+applications;Clean+code.+Stunning+UI.+Real+impact." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FF007F&center=true&vCenter=true&width=780&lines=Welcome+to+my+digital+space!;Crafting+scalable+web+applications;MERN+Stack+%26+Backend+Specialist;Clean+code.+Immersive+UI.+Real-world+impact." alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tsegazeab86&color=00ffcc&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/tsegazeab86?style=for-the-badge&logo=github&color=ff007f" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=tsegazeab86&color=ff007f&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/tsegazeab86?style=for-the-badge&logo=github&color=00ffcc&logoColor=black" alt="Followers" />
   <img src="https://img.shields.io/github/stars/tsegazeab86?style=for-the-badge&logo=github&color=7928ca" alt="Stars" />
-  <img src="https://img.shields.io/badge/Status-Available%20for%20Hire-brightgreen?style=for-the-badge&logo=icloud&logoColor=white" alt="Hiring Status" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-00ffcc?style=for-the-badge&logo=icloud&logoColor=black" alt="Hiring Status" />
 </p>
 
 ---
 
 <!-- ===================== ABOUT ME ===================== -->
-<h3>👋 About Me</h3>
+<div align="center">
+  <h3>⚡ About Me ⚡</h3>
+</div>
 
 <table width="100%">
   <tr>
-    <td width="60%" valign="top">
-      <p>I am an ambitious <b>Computer Science undergraduate</b> and <b>Full-Stack Software Engineer</b> who thrives on transforming complex ideas into high-performance, elegant, and secure web applications. I combine modern frontend frameworks with robust backend architectures to deliver seamless digital experiences.</p>
+    <td width="55%" valign="top">
+      <p>I am a passionate <b>Computer Science student</b> and <b>Full-Stack Software Engineer</b> dedicated to building high-performance, robust, and scalable web solutions. I bridge the gap between complex backend architectures and sleek, interactive user interfaces.</p>
       <br />
-      <table>
-        <tr>
-          <td><b>🎓 Education</b></td>
-          <td>B.Sc. in Computer Science (Junior / 3rd Year)</td>
-        </tr>
-        <tr>
-          <td><b>💻 Core Focus</b></td>
-          <td>Full-Stack Engineering: MERN Stack, Modern JavaScript, PHP & Relational Databases</td>
-        </tr>
-        <tr>
-          <td><b>🚀 Mission</b></td>
-          <td>Building production-grade applications that scale seamlessly and solve real-world problems</td>
-        </tr>
-       </table>
+      <ul>
+        <li><b>🎓 Education:</b> B.Sc. Computer Science (Junior / 3rd Year)</li>
+        <li><b>💻 Core Stack:</b> MERN Stack, Modern JavaScript (ES6+), PHP & SQL</li>
+        <li><b>🚀 Mission:</b> Architecting production-ready applications that solve real-world problems.</li>
+      </ul>
     </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="https://media4.giphy.com/media/L05HgB2h6qICDs5Sms/giphy.gif" width="100%" style="border-radius:12px;" alt="Coding Animation" />
+    <td width="45%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/master/media/coding.gif" width="100%" style="border-radius:14px;" alt="Coding GIF" />
     </td>
   </tr>
 </table>
@@ -48,107 +41,86 @@
 ---
 
 <!-- ===================== TECH STACK ===================== -->
-<h3>⚡ Tech Stack & Ecosystem</h3>
+<div align="center">
+  <h3>🛠️ Tech Stack & Ecosystem 🛠️</h3>
+</div>
 
-<table width="100%">
-  <tr>
-    <td width="22%" valign="middle"><b>Languages</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/JavaScript_(ES6+)-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-    </td>
-  </tr>
-  <tr>
-    <td valign="middle"><b>Frontend</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-      <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-      <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
-      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-      <img src="https://img.shields.io/badge/Tailwind_CSS-38Bdf8?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-    </td>
-  </tr>
-  <tr>
-    <td valign="middle"><b>Backend</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-      <img src="https://img.shields.io/badge/RESTful_APIs-FF5722?style=for-the-badge&logo=postman&logoColor=white" alt="REST APIs" />
-    </td>
-  </tr>
-  <tr>
-    <td valign="middle"><b>Databases & Cloud</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-    </td>
-  </tr>
-  <tr>
-    <td valign="middle"><b>DevOps & Tools</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-      <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-      <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render" />
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" /><br>
+  
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" /><br>
+
+  <!-- Backend & Database -->
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="Mongo" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" /><br>
+
+  <!-- DevOps & Tools -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+</p>
 
 ---
 
 <!-- ===================== FEATURED PROJECTS ===================== -->
-<h3>📌 Featured Projects</h3>
+<div align="center">
+  <h3>📌 Featured Projects 📌</h3>
+</div>
 
 <table width="100%">
-  <!-- Row 1 -->
   <tr>
     <td width="50%" valign="top">
       <h4><a href="https://netflix-clone-seven-mocha-66.vercel.app/" target="_blank">🎬 Netflix Clone (Full-Stack)</a></h4>
-      <p>A production-ready video streaming web application featuring real-time movie cataloging, dynamic category browsing, trailer previews, and user authentication.</p>
+      <p>High-performance movie streaming application featuring real-time data fetching, dynamic previews, and custom authentication.</p>
       <p>
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
-        <img src="https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square" alt="Status Live" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node" />
+        <img src="https://img.shields.io/badge/Status-Live-00ffcc?style=flat-square" alt="Live" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="#development-phase" title="This project is currently in the development phase.">🏥 Hospital Management System</a> 🛠️</h4>
-      <p>An enterprise-grade administrative portal engineered to optimize patient record keeping, multi-department appointment scheduling, and clinical workflows.</p>
+      <h4><a href="#development-phase">🏥 Hospital Management System</a> 🛠️</h4>
+      <p>Enterprise administrative portal built to handle patient records, department scheduling, and clinical workflows seamlessly.</p>
       <p>
         <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-        <img src="https://img.shields.io/badge/Status-In%20Development-yellow?style=flat-square" alt="In Development Phase" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
+        <img src="https://img.shields.io/badge/Status-In%20Dev-yellow?style=flat-square" alt="Dev" />
       </p>
     </td>
   </tr>
-  <!-- Row 2 -->
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="#development-phase" title="This project is currently in the development phase.">☕ Campus Cafeteria Live Queue</a> 🛠️</h4>
-      <p>A high-performance real-time queue management system and pre-ordering web solution designed to minimize student wait times on campus.</p>
+      <h4><a href="#development-phase">☕ Campus Cafeteria Live Queue</a> 🛠️</h4>
+      <p>Real-time queue tracking and pre-ordering web tool engineered to optimize wait times for students on campus.</p>
       <p>
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-        <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-        <img src="https://img.shields.io/badge/Status-In%20Development-yellow?style=flat-square" alt="In Development Phase" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+        <img src="https://img.shields.io/badge/Status-In%20Dev-yellow?style=flat-square" alt="Dev" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="#development-phase" title="This project is currently in the development phase.">📜 Digital Campus Clearance System</a> 🛠️</h4>
-      <p>An automated institutional asset tracking and clearance workflow portal that digitizes multi-department approval processes for graduating students.</p>
+      <h4><a href="#development-phase">📜 Digital Campus Clearance</a> 🛠️</h4>
+      <p>Automated workflow portal digitizing multi-departmental clearance and asset tracking for graduating students.</p>
       <p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-        <img src="https://img.shields.io/badge/Status-In%20Development-yellow?style=flat-square" alt="In Development Phase" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
+        <img src="https://img.shields.io/badge/Status-In%20Dev-yellow?style=flat-square" alt="Dev" />
       </p>
     </td>
   </tr>
@@ -156,60 +128,56 @@
 
 ---
 
-<!-- ===================== PROGRAMMING GIF BANNER ===================== -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/master/media/coding.gif" width="70%" style="border-radius:12px;" alt="Coding Animation" />
-</p>
-
----
-
 <!-- ===================== ANALYTICS ===================== -->
-<h3>📊 GitHub Analytics & Metrics</h3>
+<div align="center">
+  <h3>📊 GitHub Analytics & Metrics 📊</h3>
+</div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tsegazeab86&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsegazeab86&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tsegazeab86&show_icons=true&theme=vue-dark&hide_border=true&count_private=true" width="48%" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsegazeab86&layout=compact&theme=vue-dark&hide_border=true" width="48%" alt="Langs" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tsegazeab86&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tsegazeab86&theme=vue-dark&hide_border=true" alt="Streak" />
 </p>
 
 ---
 
-<!-- ===================== ENGINEERING PHILOSOPHY ===================== -->
-<h3>💡 Engineering Philosophy</h3>
-
-> *"Writing code is easy, but engineering robust, scalable, and maintainable software is an art. I focus on clean architecture, modular design, and writing code that solves real-world problems effectively."*
-> — **Tsegaye Mekonnen**
+<!-- ===================== PHILOSOPHY ===================== -->
+<div align="center">
+  <h3>💡 Engineering Philosophy 💡</h3>
+  <p><em>"Writing clean code is important, but building scalable, user-centric, and maintainable software architectures is what truly defines engineering excellence."</em></p>
+  <p><b>— Tsegaye Mekonnen</b></p>
+</div>
 
 ---
 
 <!-- ===================== CONTACT ===================== -->
-<h3 align="center">📫 Let's Connect & Collaborate</h3>
+<div align="center">
+  <h3>📫 Let's Connect & Collaborate</h3>
+  
+  <p>
+    <a href="https://www.linkedin.com/in/tsegish86" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://t.me/Tsegazeab2020" target="_blank">
+      <img src="https://img.shields.io/badge/Telegram-24A1DE?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+    </a>
+    <a href="https://twitter.com/tsegazeab2020t" target="_blank">
+      <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+    </a>
+    <a href="https://www.youtube.com/@TsegaZeab12" target="_blank">
+      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+    </a>
+    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=tsegazeab860@gmail.com&su=Hello%20Tsegaye" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
+  </p>
+  
+  <p>📧 <b>tsegazeab860@gmail.com</b></p>
+</div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tsegish86" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://t.me/Tsegazeab2020" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-24A1DE?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  <a href="https://twitter.com/tsegazeab2020t" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
-  <a href="https://www.youtube.com/@TsegaZeab12" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=tsegazeab860@gmail.com&su=Hello%20Tsegaye" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
-
-<p align="center">
-  📧 <b>tsegazeab860@gmail.com</b>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=100,75,50,25,0&height=120&section=footer" width="100%" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=50,30,15,4,0&height=100&section=footer" width="100%" alt="Footer" />
 </p>
