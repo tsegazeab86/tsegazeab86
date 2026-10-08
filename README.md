@@ -1,27 +1,28 @@
 <!-- ===================== HEADER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,45:3730A3,100:6366F1&height=230&section=header&text=Hi%20there%2C%20I'm%20Tsegaye%20Mekonnen&fontSize=40&fontColor=ffffff&fontAlignY=40&desc=Software%20Engineer%20%C2%B7%20Full-Stack%20Developer&descSize=17&descAlignY=63&animation=twinkle" width="100%" alt="Hi there, I'm Tsegaye Mekonnen" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,25,50,75,100&height=250&section=header&text=Tsegaye%20Mekonnen&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%C2%B7%20Full-Stack%20Innovator&descSize=18&descAlignY=62&animation=fadeIn" width="100%" alt="Tsegaye Mekonnen Header" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=818CF8&center=true&vCenter=true&width=720&lines=Welcome+to+my+GitHub+profile;Engineering+scalable+web+solutions;MERN+%26+Full-Stack+Architectures;Building+production-grade+applications;Clean+code.+Robust+architecture.+Real-world+impact." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00FFCC&center=true&vCenter=true&width=750&lines=Welcome+to+my+digital+universe!;Engineering+scalable+web+solutions;MERN+%26+Full-Stack+Architect;Building+the+future+of+web+applications;Clean+code.+Stunning+UI.+Real+impact." alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tsegazeab86&color=3730A3&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/tsegazeab86?style=for-the-badge&logo=github&color=0B1020" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/tsegazeab86?style=for-the-badge&logo=github&color=3730A3" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=tsegazeab86&color=00ffcc&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/tsegazeab86?style=for-the-badge&logo=github&color=ff007f" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/tsegazeab86?style=for-the-badge&logo=github&color=7928ca" alt="Stars" />
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Hire-brightgreen?style=for-the-badge&logo=icloud&logoColor=white" alt="Hiring Status" />
 </p>
 
 ---
 
-<!-- ===================== ABOUT ===================== -->
+<!-- ===================== ABOUT ME ===================== -->
 <h3>👋 About Me</h3>
 
 <table width="100%">
   <tr>
     <td width="60%" valign="top">
-      <p>I am a <b>Computer Science undergraduate</b> and <b>Full-Stack Software Engineer</b> driven by a passion for building robust, scalable, and user-centric web applications. I specialize in turning complex requirements into clean, efficient, and maintainable software architectures.</p>
+      <p>I am an ambitious <b>Computer Science undergraduate</b> and <b>Full-Stack Software Engineer</b> who thrives on transforming complex ideas into high-performance, elegant, and secure web applications. I combine modern frontend frameworks with robust backend architectures to deliver seamless digital experiences.</p>
       <br />
       <table>
         <tr>
@@ -33,21 +34,21 @@
           <td>Full-Stack Engineering: MERN Stack, Modern JavaScript, PHP & Relational Databases</td>
         </tr>
         <tr>
-          <td><b>🚀 Current Objective</b></td>
-          <td>Scaling distributed systems, optimizing backend performance, and delivering production-ready applications</td>
+          <td><b>🚀 Mission</b></td>
+          <td>Building production-grade applications that scale seamlessly and solve real-world problems</td>
         </tr>
        </table>
     </td>
     <td width="40%" align="center" valign="middle">
-      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%" style="border-radius:10px;" alt="Coding GIF" />
+      <img src="https://media4.giphy.com/media/L05HgB2h6qICDs5Sms/giphy.gif" width="100%" style="border-radius:12px;" alt="Coding Animation" />
     </td>
   </tr>
 </table>
 
 ---
 
-<!-- ===================== TECHNICAL EXPERTISE ===================== -->
-<h3>⚙️ Technical Expertise</h3>
+<!-- ===================== TECH STACK ===================== -->
+<h3>⚡ Tech Stack & Ecosystem</h3>
 
 <table width="100%">
   <tr>
@@ -155,16 +156,23 @@
 
 ---
 
+<!-- ===================== PROGRAMMING GIF BANNER ===================== -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/master/media/coding.gif" width="70%" style="border-radius:12px;" alt="Coding Animation" />
+</p>
+
+---
+
 <!-- ===================== ANALYTICS ===================== -->
-<h3>📊 GitHub Analytics</h3>
+<h3>📊 GitHub Analytics & Metrics</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tsegazeab86&show_icons=true&theme=midnight-purple&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsegazeab86&layout=compact&theme=midnight-purple&hide_border=true" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tsegazeab86&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsegazeab86&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tsegazeab86&theme=midnight-purple&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tsegazeab86&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -203,5 +211,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,55:3730A3,100:0B1020&height=120&section=footer" width="100%" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=100,75,50,25,0&height=120&section=footer" width="100%" alt="Footer" />
 </p>
