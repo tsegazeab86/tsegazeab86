@@ -124,69 +124,39 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </p>
 
----
 # 🚀 Featured Projects
 
 ---
 
-### 1. Evangadi Forum — Full-Stack Community Q&A Platform
-> A robust, full-stack community Q&A platform inspired by Stack Overflow, designed to facilitate technical discussion through secure user accounts, real-time question publishing, and structured answer threads.
-
+### 1. Evangadi Forum
 * **Live Demo:** [https://evangadi-front.vercel.app/](https://evangadi-front.vercel.app/)
-* **Tech Stack:** React.js, Node.js, Express.js, MySQL, Tailwind CSS, JSON Web Tokens (JWT), Axios.
-
-#### Key Features & Technical Highlights:
-* **Authentication & Security:** Implemented a secure user authentication system using **bcrypt.js** for password hashing and **JWT** for stateless route authorization.
-* **RESTful API Architecture:** Designed modular Express.js endpoints to handle database operations for user profiles, question posts, and threaded responses.
-* **Responsive Frontend UI:** Built a modern, mobile-friendly interface using React.js and Tailwind CSS with dynamic form validations and responsive layouts.
-* **Production Deployment:** Configured serverless functions and optimized client-server deployment workflows on Vercel.
+* **Technologies:** React.js, Node.js, Express.js, MySQL, Tailwind CSS, JWT
+* **Description:** A full-stack Q&A platform facilitating technical discussions with secure authentication, question posting, and answer threads.
 
 ---
 
-### 2. Amazon Clone — Full-Stack E-Commerce Application
-> A feature-rich e-commerce replica providing complete online shopping workflows, from product catalog browsing to real-time payment processing and order tracking.
-
-* **Tech Stack:** React.js, Node.js, Express.js, Firebase Firestore, Stripe API, Vercel, Render.
-
-#### Key Features & Technical Highlights:
-* **Stripe Payment Gateway:** Integrated full backend payment intent workflows for secure transaction processing.
-* **State Management:** Utilized React Context API and Redux patterns for cart manipulation, price calculations, and persistent user sessions.
-* **Cloud Infrastructure & Storage:** Deployed the client-side on Vercel and backend services on Render, leveraging Firebase Firestore for real-time order history management.
+### 2. Netflix Clone
+* **Live Demo:** [https://netflix-clone-seven-mocha-66.vercel.app/](https://netflix-clone-seven-mocha-66.vercel.app/)
+* **Technologies:** React.js, TMDB REST API, Material-UI, Custom Video Stream Components
+* **Description:** A responsive movie trailer and streaming interface with dynamic content fetching and interactive video previews.
 
 ---
 
-### 3. Netflix Clone — Video Streaming Web Application
-> A responsive movie trailer and video streaming platform interface integrated with dynamic media APIs for real-time content fetching.
-
-* **Tech Stack:** React.js, TMDB REST API, Material-UI, Custom Video Stream Components, Vercel.
-
-#### Key Features & Technical Highlights:
-* **Dynamic Media Fetching:** Integrated TMDB REST API endpoints to dynamically populate trending movie categories and detailed modal previews.
-* **Custom Video Streaming:** Developed interactive trailer previews using React video components and responsive UI elements.
-* **UI/UX Design:** Designed a dark-themed, cinematic user interface styled with Material-UI and optimized for across all screen sizes.
+### 3. Amazon Clone
+* **Technologies:** React.js, Node.js, Express.js, Firebase Firestore, Stripe API, Render, Vercel
+* **Description:** A feature-rich e-commerce replica providing complete shopping workflows, cart management, and real-time Stripe payment integration.
 
 ---
 
-### 4. Academic Advising System — Multi-Role University Portal
-> An enterprise-level university management solution engineered to digitize advisor-student interactions, course registrations, and academic auditing.
-
-* **Tech Stack:** React.js, Vite, Node.js, Express.js, MySQL.
-
-#### Key Features & Technical Highlights:
-* **Role-Based Access Control (RBAC):** Configured distinct workflows and view permissions for **Students**, **Advisors**, **Registrars**, and **System Administrators**.
-* **Database Schema Design:** Engineered complex relational MySQL database schemas ensuring data integrity across course prerequisites, student records, and advising logs.
-* **Dashboard Analytics:** Created intuitive dashboard views for tracking student academic progress and advisor request approvals.
+### 4. Academic Advising System
+* **Technologies:** React.js, Vite, Node.js, Express.js, MySQL
+* **Description:** An enterprise university portal streamlining advisor-student interactions, course registrations, and role-based workflows.
 
 ---
 
-### 5. House Renting & Inventory Management Systems
-> Dual full-stack web applications tailored for property rental workflows and business inventory control.
-
-* **Tech Stack:** PHP, MySQL, Bootstrap, JavaScript.
-
-#### Key Features & Technical Highlights:
-* **Role-Based Workflows:** Implemented customized portals for landlords/tenants and store managers/admins.
-* **Relational Data Management:** Designed structured MySQL databases (`house_rent_db` & inventory logs) featuring transaction handling and analytics summaries.
+### 5. House Renting & Inventory Systems
+* **Technologies:** PHP, MySQL, Bootstrap, JavaScript
+* **Description:** Full-stack web solutions for property rental workflows and business inventory management with role-based access control.
 <!-- ===================== ANALYTICS ===================== -->
 <div align="center">
   <img src="https://media.giphy.com/media/W5ZXxPJloNye0/giphy.gif" width="35" />
