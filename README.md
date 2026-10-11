@@ -125,103 +125,68 @@
 </p>
 
 ---
-
-<!-- ===================== FEATURED PROJECTS ===================== -->
-<div align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" />
-  <h2>📌 Featured Projects 📌</h2>
-  <p><em>Real-world applications I've designed and engineered end-to-end</em></p>
-</div>
-
-<table width="100%" border="0">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🎬 Netflix Clone</h3>
-      <p align="center"><b>Full-Stack Streaming Platform</b></p>
-      <p>A high-performance movie streaming application featuring real-time data fetching, dynamic previews, custom authentication, and responsive UI inspired by Netflix.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/TMDB_API-01B4E4?style=flat-square&logo=themoviedatabase&logoColor=white" />
-        <img src="https://img.shields.io/badge/Status-Live-00ffcc?style=flat-square" />
-      </p>
-      <p align="center">
-        <a href="https://netflix-clone-seven-mocha-66.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/🚀_Live_Demo-FF007F?style=for-the-badge" />
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">💬 Evangadi Forum</h3>
-      <p align="center"><b>Full-Stack Q&A Community Platform</b></p>
-      <p>A fully-featured discussion forum where users can post questions, share answers, and engage in community-driven knowledge sharing — built with secure authentication and a clean, modern UI.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-        <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
-        <img src="https://img.shields.io/badge/Status-Live-00ffcc?style=flat-square" />
-      </p>
-      <p align="center">
-        <a href="https://evangadi-front.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/🚀_Live_Demo-FF007F?style=for-the-badge" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🏥 Hospital Management System</h3>
-      <p align="center"><b>Enterprise Admin Portal</b> 🛠️ <i>In Development</i></p>
-      <p>Enterprise administrative portal built to handle patient records, department scheduling, staff management, and clinical workflows seamlessly.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-        <img src="https://img.shields.io/badge/Status-In%20Dev-yellow?style=flat-square" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">☕ Campus Cafeteria Live Queue</h3>
-      <p align="center"><b>Real-Time Ordering System</b> 🛠️ <i>In Development</i></p>
-      <p>Real-time queue tracking and pre-ordering web tool engineered to optimize wait times for students and staff on campus.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-        <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white" />
-        <img src="https://img.shields.io/badge/Status-In%20Dev-yellow?style=flat-square" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">📜 Digital Campus Clearance</h3>
-      <p align="center"><b>Workflow Automation Portal</b> 🛠️ <i>In Development</i></p>
-      <p>Automated workflow portal digitizing multi-departmental clearance and asset tracking for graduating students.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-        <img src="https://img.shields.io/badge/Status-In%20Dev-yellow?style=flat-square" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🌐 Personal Portfolio</h3>
-      <p align="center"><b>Developer Showcase Site</b></p>
-      <p>A modern, animated portfolio website showcasing my projects, skills, and journey as a software engineer.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Tailwind-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white" />
-        <img src="https://img.shields.io/badge/Status-Live-00ffcc?style=flat-square" />
-      </p>
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-</p>
+# 🚀 Featured Projects
 
 ---
 
+### 1. Evangadi Forum — Full-Stack Community Q&A Platform
+> A robust, full-stack community Q&A platform inspired by Stack Overflow, designed to facilitate technical discussion through secure user accounts, real-time question publishing, and structured answer threads.
+
+* **Live Demo:** [https://evangadi-front.vercel.app/](https://evangadi-front.vercel.app/)
+* **Tech Stack:** React.js, Node.js, Express.js, MySQL, Tailwind CSS, JSON Web Tokens (JWT), Axios.
+
+#### Key Features & Technical Highlights:
+* **Authentication & Security:** Implemented a secure user authentication system using **bcrypt.js** for password hashing and **JWT** for stateless route authorization.
+* **RESTful API Architecture:** Designed modular Express.js endpoints to handle database operations for user profiles, question posts, and threaded responses.
+* **Responsive Frontend UI:** Built a modern, mobile-friendly interface using React.js and Tailwind CSS with dynamic form validations and responsive layouts.
+* **Production Deployment:** Configured serverless functions and optimized client-server deployment workflows on Vercel.
+
+---
+
+### 2. Amazon Clone — Full-Stack E-Commerce Application
+> A feature-rich e-commerce replica providing complete online shopping workflows, from product catalog browsing to real-time payment processing and order tracking.
+
+* **Tech Stack:** React.js, Node.js, Express.js, Firebase Firestore, Stripe API, Vercel, Render.
+
+#### Key Features & Technical Highlights:
+* **Stripe Payment Gateway:** Integrated full backend payment intent workflows for secure transaction processing.
+* **State Management:** Utilized React Context API and Redux patterns for cart manipulation, price calculations, and persistent user sessions.
+* **Cloud Infrastructure & Storage:** Deployed the client-side on Vercel and backend services on Render, leveraging Firebase Firestore for real-time order history management.
+
+---
+
+### 3. Netflix Clone — Video Streaming Web Application
+> A responsive movie trailer and video streaming platform interface integrated with dynamic media APIs for real-time content fetching.
+
+* **Tech Stack:** React.js, TMDB REST API, Material-UI, Custom Video Stream Components, Vercel.
+
+#### Key Features & Technical Highlights:
+* **Dynamic Media Fetching:** Integrated TMDB REST API endpoints to dynamically populate trending movie categories and detailed modal previews.
+* **Custom Video Streaming:** Developed interactive trailer previews using React video components and responsive UI elements.
+* **UI/UX Design:** Designed a dark-themed, cinematic user interface styled with Material-UI and optimized for across all screen sizes.
+
+---
+
+### 4. Academic Advising System — Multi-Role University Portal
+> An enterprise-level university management solution engineered to digitize advisor-student interactions, course registrations, and academic auditing.
+
+* **Tech Stack:** React.js, Vite, Node.js, Express.js, MySQL.
+
+#### Key Features & Technical Highlights:
+* **Role-Based Access Control (RBAC):** Configured distinct workflows and view permissions for **Students**, **Advisors**, **Registrars**, and **System Administrators**.
+* **Database Schema Design:** Engineered complex relational MySQL database schemas ensuring data integrity across course prerequisites, student records, and advising logs.
+* **Dashboard Analytics:** Created intuitive dashboard views for tracking student academic progress and advisor request approvals.
+
+---
+
+### 5. House Renting & Inventory Management Systems
+> Dual full-stack web applications tailored for property rental workflows and business inventory control.
+
+* **Tech Stack:** PHP, MySQL, Bootstrap, JavaScript.
+
+#### Key Features & Technical Highlights:
+* **Role-Based Workflows:** Implemented customized portals for landlords/tenants and store managers/admins.
+* **Relational Data Management:** Designed structured MySQL databases (`house_rent_db` & inventory logs) featuring transaction handling and analytics summaries.
 <!-- ===================== ANALYTICS ===================== -->
 <div align="center">
   <img src="https://media.giphy.com/media/W5ZXxPJloNye0/giphy.gif" width="35" />
