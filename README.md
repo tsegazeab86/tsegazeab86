@@ -200,22 +200,12 @@
 
 ---
 
-<!-- ===================== SNAKE ANIMATION ===================== -->
-<div align="center">
-  <h2>🐍 Contribution Snake 🐍</h2>
-  <img src="https://raw.githubusercontent.com/tsegazeab86/tsegazeab86/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake" />
-</div>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-</p>
-
+ 
 ---
 
 <!-- ===================== CONTACT ===================== -->
 <div align="center">
   <h2>📫 Let's Connect & Collaborate 🤝</h2>
-  <p><em>Open to freelance projects, collaborations, and full-time opportunities</em></p>
   <br />
   
   <p>
@@ -238,10 +228,6 @@
   
   <p>📧 <b>tsegazeab860@gmail.com</b></p>
   
-  <br />
-  <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&lines=Thanks+for+stopping+by!+%F0%9F%98%8A;Let's+build+something+amazing+together.+%F0%9F%9A%80;Star+my+repos+if+you+find+them+useful!+%E2%AD%90" alt="Footer Typing" />
-  </p>
 </div>
 
 <p align="center">
