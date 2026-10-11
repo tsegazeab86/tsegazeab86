@@ -124,36 +124,45 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </p>
 
+---
+
+<!-- ===================== PROJECTS ===================== -->
+<div align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaOC3nhrk2k3n/giphy.gif" width="35" />
+  <h2>🚀 Projects 🚀</h2>
+  <img src="https://media.giphy.com/media/LnQjpWaOC3nhrk2k3n/giphy.gif" width="35" />
+</div>
+
+<br />
 
 ### 1. Evangadi Forum
-> An integrated full-stack community Q&A platform facilitating technical discussions with secure authentication, question posting, and answer threads.
-
-* **Tech Stack / Technologies:** React.js, Node.js, Express.js, MySQL, Tailwind CSS, JWT
+* **Technologies:** `React.js` `Node.js` `Express.js` `MySQL` `Tailwind CSS` `JWT`
 * **Links:** [GitHub Repository](#) | [Live Demo](https://evangadi-front.vercel.app/)
 
 ---
 
 ### 2. Netflix Clone
-> A responsive movie trailer and video streaming platform interface integrated with dynamic media APIs for real-time content fetching and interactive previews.
-
-* **Tech Stack / Technologies:** React.js, TMDB REST API, Material-UI, Custom Video Stream Components
+* **Technologies:** `React.js` `TMDB API` `Material-UI` `CSS3`
 * **Links:** [GitHub Repository](#) | [Live Demo](https://netflix-clone-seven-mocha-66.vercel.app/)
 
 ---
 
 ### 3. Amazon Clone
-> A feature-rich e-commerce replica providing complete online shopping workflows, cart management, and real-time Stripe payment integration.
-
-* **Tech Stack / Technologies:** React.js, Node.js, Express.js, Firebase Firestore, Stripe API, Vercel, Render
+* **Technologies:** `React.js` `Node.js` `Express.js` `Firebase` `Stripe API` `Vercel`
 * **Links:** [GitHub Repository](#) | [Live Demo](#)
 
 ---
 
 ### 4. Academic Advising System
-> An enterprise-level university portal engineered to digitize advisor-student interactions, course registrations, and role-based workflows.
-
-* **Tech Stack / Technologies:** React.js, Vite, Node.js, Express.js, MySQL
+* **Technologies:** `React.js` `Vite` `Node.js` `Express.js` `MySQL`
 * **Links:** [GitHub Repository](#) | [Live Demo](#)
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</p>
+
+---
+
 <!-- ===================== ANALYTICS ===================== -->
 <div align="center">
   <img src="https://media.giphy.com/media/W5ZXxPJloNye0/giphy.gif" width="35" />
@@ -195,9 +204,6 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </p>
 
----
-
- 
 ---
 
 <!-- ===================== CONTACT ===================== -->
