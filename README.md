@@ -124,39 +124,35 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </p>
 
-# 🚀 Featured Projects
-
----
-
 ### 1. Evangadi Forum
-* **Live Demo:** [https://evangadi-front.vercel.app/](https://evangadi-front.vercel.app/)
-* **Technologies:** React.js, Node.js, Express.js, MySQL, Tailwind CSS, JWT
-* **Description:** A full-stack Q&A platform facilitating technical discussions with secure authentication, question posting, and answer threads.
+> An integrated full-stack community Q&A platform facilitating technical discussions with secure authentication, question posting, and answer threads.
+
+* **Tech Stack / Technologies:** React.js, Node.js, Express.js, MySQL, Tailwind CSS, JWT
+* **Links:** [GitHub Repository](#) | [Live Demo](https://evangadi-front.vercel.app/)
 
 ---
 
 ### 2. Netflix Clone
-* **Live Demo:** [https://netflix-clone-seven-mocha-66.vercel.app/](https://netflix-clone-seven-mocha-66.vercel.app/)
-* **Technologies:** React.js, TMDB REST API, Material-UI, Custom Video Stream Components
-* **Description:** A responsive movie trailer and streaming interface with dynamic content fetching and interactive video previews.
+> A responsive movie trailer and video streaming platform interface integrated with dynamic media APIs for real-time content fetching and interactive previews.
+
+* **Tech Stack / Technologies:** React.js, TMDB REST API, Material-UI, Custom Video Stream Components
+* **Links:** [GitHub Repository](#) | [Live Demo](https://netflix-clone-seven-mocha-66.vercel.app/)
 
 ---
 
 ### 3. Amazon Clone
-* **Technologies:** React.js, Node.js, Express.js, Firebase Firestore, Stripe API, Render, Vercel
-* **Description:** A feature-rich e-commerce replica providing complete shopping workflows, cart management, and real-time Stripe payment integration.
+> A feature-rich e-commerce replica providing complete online shopping workflows, cart management, and real-time Stripe payment integration.
+
+* **Tech Stack / Technologies:** React.js, Node.js, Express.js, Firebase Firestore, Stripe API, Vercel, Render
+* **Links:** [GitHub Repository](#) | [Live Demo](#)
 
 ---
 
 ### 4. Academic Advising System
-* **Technologies:** React.js, Vite, Node.js, Express.js, MySQL
-* **Description:** An enterprise university portal streamlining advisor-student interactions, course registrations, and role-based workflows.
+> An enterprise-level university portal engineered to digitize advisor-student interactions, course registrations, and role-based workflows.
 
----
-
-### 5. House Renting & Inventory Systems
-* **Technologies:** PHP, MySQL, Bootstrap, JavaScript
-* **Description:** Full-stack web solutions for property rental workflows and business inventory management with role-based access control.
+* **Tech Stack / Technologies:** React.js, Vite, Node.js, Express.js, MySQL
+* **Links:** [GitHub Repository](#) | [Live Demo](#)
 <!-- ===================== ANALYTICS ===================== -->
 <div align="center">
   <img src="https://media.giphy.com/media/W5ZXxPJloNye0/giphy.gif" width="35" />
