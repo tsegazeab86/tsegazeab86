@@ -1,10 +1,10 @@
 <!-- ===================== HEADER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,12,24,40&height=240&section=header&text=Tsegaye%20Mekonnen&fontSize=52&fontColor=00FFCC&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full-Stack%20Architect%20%7C%20MERN%20Specialist&descSize=18&descAlignY=60&animation=twinkling" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,12,24,40&height=180&section=header&text=Tsegaye%20Mekonnen&fontSize=40&fontColor=00FFCC&fontAlignY=50&animation=twinkling" width="100%" alt="Header" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=800&color=FF007F&center=true&vCenter=true&width=900&lines=Welcome+to+my+digital+space!+%F0%9F%91%8B;Crafting+scalable+web+applications+%F0%9F%9A%80;MERN+Stack+%26+Backend+Specialist+%E2%9A%99%EF%B8%8F;Clean+code.+Immersive+UI.+Real-world+impact.+%E2%9C%A8;Always+learning%2C+always+building.+%F0%9F%92%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=800&color=FF007F&center=true&vCenter=true&width=900&lines=Computer+Science+Student;MERN+Stack+Developer;Welcome+to+my+digital+space!+%F0%9F%91%8B;Crafting+scalable+web+applications+%F0%9F%9A%80;Always+learning%2C+always+building.+%F0%9F%92%A1" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -55,7 +55,7 @@
       </p>
     </td>
     <td width="45%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/master/media/coding.gif" width="100%" style="border-radius:16px; border: 2px solid #00ffcc;" alt="Coding GIF" />
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="80%" alt="Coding Graphic" />
     </td>
   </tr>
 </table>
@@ -175,14 +175,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tsegazeab86&theme=vue-dark&hide_border=true&background=0D1117&stroke=00FFCC&ring=FF007F&fire=FF007F&currStreakLabel=00FFCC" alt="Streak" width="70%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tsegazeab86&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tsegazeab86&theme=react-dark&bg_color=0D1117&color=00FFCC&line=FF007F&point=FFFFFF&hide_border=true" width="100%" alt="Activity Graph" />
 </p>
 
@@ -196,8 +188,9 @@
 <div align="center">
   <h2>💡 Engineering Philosophy 💡</h2>
   <br />
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
-  <br /><br />
+  <p><em>"Testing leads to failure, and failure leads to understanding."</em></p>
+  <p><b>— Tsegish</b></p>
+  <br />
 </div>
 
 <p align="center">
