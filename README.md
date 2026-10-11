@@ -1,54 +1,81 @@
 <!-- ===================== HEADER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,4,15,30,50&height=220&section=header&text=Tsegaye%20Mekonnen&fontSize=44&fontColor=00FFCC&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20Architect&descSize=18&descAlignY=65&fontColor=FFFFFF&animation=scaleIn" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,12,24,40&height=240&section=header&text=Tsegaye%20Mekonnen&fontSize=52&fontColor=00FFCC&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full-Stack%20Architect%20%7C%20MERN%20Specialist&descSize=18&descAlignY=60&animation=twinkling" width="100%" alt="Header" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FF007F&center=true&vCenter=true&width=780&lines=Welcome+to+my+digital+space!;Crafting+scalable+web+applications;MERN+Stack+%26+Backend+Specialist;Clean+code.+Immersive+UI.+Real-world+impact." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=800&color=FF007F&center=true&vCenter=true&width=900&lines=Welcome+to+my+digital+space!+%F0%9F%91%8B;Crafting+scalable+web+applications+%F0%9F%9A%80;MERN+Stack+%26+Backend+Specialist+%E2%9A%99%EF%B8%8F;Clean+code.+Immersive+UI.+Real-world+impact.+%E2%9C%A8;Always+learning%2C+always+building.+%F0%9F%92%A1" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tsegazeab86&color=ff007f&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/tsegazeab86?style=for-the-badge&logo=github&color=00ffcc&logoColor=black" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/tsegazeab86?style=for-the-badge&logo=github&color=7928ca" alt="Stars" />
+  <a href="https://github.com/tsegazeab86">
+    <img src="https://komarev.com/ghpvc/?username=tsegazeab86&color=ff007f&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  </a>
+  <a href="https://github.com/tsegazeab86?tab=followers">
+    <img src="https://img.shields.io/github/followers/tsegazeab86?style=for-the-badge&logo=github&color=00ffcc&logoColor=black&label=FOLLOWERS" alt="Followers" />
+  </a>
+  <a href="https://github.com/tsegazeab86?tab=repositories">
+    <img src="https://img.shields.io/github/stars/tsegazeab86?style=for-the-badge&logo=github&color=7928ca&label=STARS" alt="Stars" />
+  </a>
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-00ffcc?style=for-the-badge&logo=icloud&logoColor=black" alt="Hiring Status" />
+  <img src="https://img.shields.io/badge/Location-Ethiopia%20%F0%9F%87%AA%F0%9F%87%B9-FF007F?style=for-the-badge" alt="Location" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </p>
 
 ---
 
 <!-- ===================== ABOUT ME ===================== -->
 <div align="center">
-  <h3>⚡ About Me ⚡</h3>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
+  <h2>⚡ About Me ⚡</h2>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
 </div>
 
-<table width="100%">
+<table width="100%" border="0">
   <tr>
     <td width="55%" valign="top">
-      <p>I am a passionate <b>Computer Science student</b> and <b>Full-Stack Software Engineer</b> dedicated to building high-performance, robust, and scalable web solutions. I bridge the gap between complex backend architectures and sleek, interactive user interfaces.</p>
+      <p align="left">
+        I am a passionate <b>Computer Science student</b> and <b>Full-Stack Software Engineer</b> dedicated to building high-performance, robust, and scalable web solutions. I bridge the gap between complex backend architectures and sleek, interactive user interfaces.
+      </p>
       <br />
       <ul>
-        <li><b>🎓 Education:</b> B.Sc. Computer Science (Injibara University)</li>
-        <li><b>💻 Core Stack:</b> MERN Stack, Modern JavaScript (ES6+), PHP & SQL</li>
-        <li><b>🚀 Mission:</b> Architecting production-ready applications that solve real-world problems.</li>
+        <li>🎓 <b>Education:</b> B.Sc. Computer Science — <i>Injibara University</i></li>
+        <li>💻 <b>Core Stack:</b> MERN Stack, Modern JavaScript (ES6+), PHP & SQL</li>
+        <li>🌱 <b>Currently Learning:</b> System Design, Cloud Architecture, DevOps</li>
+        <li>🚀 <b>Mission:</b> Architecting production-ready applications that solve real-world problems.</li>
+        <li>⚡ <b>Fun Fact:</b> I debug faster with coffee ☕ and lo-fi beats 🎧</li>
       </ul>
+      <br />
+      <p align="left">
+        <img src="https://img.shields.io/badge/🎯_Focus-Full--Stack_Development-ff007f?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/💼_Available-For_Freelance-00ffcc?style=for-the-badge&labelColor=black" />
+      </p>
     </td>
     <td width="45%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/master/media/coding.gif" width="100%" style="border-radius:14px;" alt="Coding GIF" />
+      <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/master/media/coding.gif" width="100%" style="border-radius:16px; border: 2px solid #00ffcc;" alt="Coding GIF" />
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</p>
 
 ---
 
 <!-- ===================== TECH STACK ===================== -->
 <div align="center">
-  <h3>🛠️ Tech Stack & Ecosystem 🛠️</h3>
-  <p><em>(Click any technology badge to explore its documentation or tutorials)</em></p>
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30" />
+  <h2>🛠️ Tech Stack & Ecosystem 🛠️</h2>
+  <p><em>(Click any technology badge to explore its documentation)</em></p>
 </div>
 
-<table width="100%">
+<table width="100%" border="0">
   <tr>
-    <td width="20%" align="right"><b>💻 Languages:</b></td>
+    <td width="20%" align="right"><b>💻 Languages</b></td>
     <td>
       <a href="https://www.w3schools.com/js/" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" /></a>
       <a href="https://www.w3schools.com/php/" target="_blank"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" /></a>
@@ -59,117 +86,206 @@
     </td>
   </tr>
   <tr>
-    <td align="right"><b>🎨 Frontend:</b></td>
+    <td align="right"><b>🎨 Frontend</b></td>
     <td>
-      <a href="https://www.w3schools.com/react/" target="_blank"><img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /></a>
+      <a href="https://react.dev/" target="_blank"><img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /></a>
       <a href="https://vite.dev/" target="_blank"><img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" /></a>
       <a href="https://redux.js.org/" target="_blank"><img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" /></a>
-      <a href="https://www.w3schools.com/tailwind/" target="_blank"><img src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind" /></a>
-      <a href="https://www.w3schools.com/bootstrap/" target="_blank"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" /></a>
+      <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind" /></a>
+      <a href="https://getbootstrap.com/" target="_blank"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" /></a>
+      <a href="https://mui.com/" target="_blank"><img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="MUI" /></a>
     </td>
   </tr>
   <tr>
-    <td align="right"><b>⚙️ Backend & DB:</b></td>
+    <td align="right"><b>⚙️ Backend & DB</b></td>
     <td>
       <a href="https://nodejs.org/en/docs" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node" /></a>
       <a href="https://expressjs.com/" target="_blank"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" /></a>
-      <a href="https://www.w3schools.com/mysql/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /></a>
+      <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /></a>
       <a href="https://www.mongodb.com/docs/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="Mongo" /></a>
       <a href="https://firebase.google.com/docs" target="_blank"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" /></a>
+      <a href="https://jwt.io/" target="_blank"><img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" /></a>
     </td>
   </tr>
   <tr>
-    <td align="right"><b>🛠️ DevOps & Tools:</b></td>
+    <td align="right"><b>🛠️ DevOps & Tools</b></td>
     <td>
       <a href="https://git-scm.com/doc" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
       <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
       <a href="https://vercel.com/docs" target="_blank"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" /></a>
       <a href="https://render.com/docs" target="_blank"><img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render" /></a>
       <a href="https://learning.postman.com/docs/" target="_blank"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" /></a>
+      <a href="https://code.visualstudio.com/docs" target="_blank"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" /></a>
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</p>
 
 ---
 
 <!-- ===================== FEATURED PROJECTS ===================== -->
 <div align="center">
-  <h3>📌 Featured Projects 📌</h3>
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" />
+  <h2>📌 Featured Projects 📌</h2>
+  <p><em>Real-world applications I've designed and engineered end-to-end</em></p>
 </div>
 
-<table width="100%">
+<table width="100%" border="0">
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://netflix-clone-seven-mocha-66.vercel.app/" target="_blank">🎬 Netflix Clone (Full-Stack)</a></h4>
-      <p>High-performance movie streaming application featuring real-time data fetching, dynamic previews, and custom authentication.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node" />
-        <img src="https://img.shields.io/badge/Status-Live-00ffcc?style=flat-square" alt="Live" />
+      <h3 align="center">🎬 Netflix Clone</h3>
+      <p align="center"><b>Full-Stack Streaming Platform</b></p>
+      <p>A high-performance movie streaming application featuring real-time data fetching, dynamic previews, custom authentication, and responsive UI inspired by Netflix.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/TMDB_API-01B4E4?style=flat-square&logo=themoviedatabase&logoColor=white" />
+        <img src="https://img.shields.io/badge/Status-Live-00ffcc?style=flat-square" />
+      </p>
+      <p align="center">
+        <a href="https://netflix-clone-seven-mocha-66.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/🚀_Live_Demo-FF007F?style=for-the-badge" />
+        </a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="#development-phase">🏥 Hospital Management System</a> 🛠️</h4>
-      <p>Enterprise administrative portal built to handle patient records, department scheduling, and clinical workflows seamlessly.</p>
-      <p>
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
-        <img src="https://img.shields.io/badge/Status-In%20Dev-yellow?style=flat-square" alt="Dev" />
+      <h3 align="center">💬 Evangadi Forum</h3>
+      <p align="center"><b>Full-Stack Q&A Community Platform</b></p>
+      <p>A fully-featured discussion forum where users can post questions, share answers, and engage in community-driven knowledge sharing — built with secure authentication and a clean, modern UI.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+        <img src="https://img.shields.io/badge/Status-Live-00ffcc?style=flat-square" />
+      </p>
+      <p align="center">
+        <a href="https://evangadi-front.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/🚀_Live_Demo-FF007F?style=for-the-badge" />
+        </a>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="#development-phase">☕ Campus Cafeteria Live Queue</a> 🛠️</h4>
-      <p>Real-time queue tracking and pre-ordering web tool engineered to optimize wait times for students on campus.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
-        <img src="https://img.shields.io/badge/Status-In%20Dev-yellow?style=flat-square" alt="Dev" />
+      <h3 align="center">🏥 Hospital Management System</h3>
+      <p align="center"><b>Enterprise Admin Portal</b> 🛠️ <i>In Development</i></p>
+      <p>Enterprise administrative portal built to handle patient records, department scheduling, staff management, and clinical workflows seamlessly.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Status-In%20Dev-yellow?style=flat-square" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="#development-phase">📜 Digital Campus Clearance</a> 🛠️</h4>
+      <h3 align="center">☕ Campus Cafeteria Live Queue</h3>
+      <p align="center"><b>Real-Time Ordering System</b> 🛠️ <i>In Development</i></p>
+      <p>Real-time queue tracking and pre-ordering web tool engineered to optimize wait times for students and staff on campus.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white" />
+        <img src="https://img.shields.io/badge/Status-In%20Dev-yellow?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">📜 Digital Campus Clearance</h3>
+      <p align="center"><b>Workflow Automation Portal</b> 🛠️ <i>In Development</i></p>
       <p>Automated workflow portal digitizing multi-departmental clearance and asset tracking for graduating students.</p>
-      <p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
-        <img src="https://img.shields.io/badge/Status-In%20Dev-yellow?style=flat-square" alt="Dev" />
+      <p align="center">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Status-In%20Dev-yellow?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🌐 Personal Portfolio</h3>
+      <p align="center"><b>Developer Showcase Site</b></p>
+      <p>A modern, animated portfolio website showcasing my projects, skills, and journey as a software engineer.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Tailwind-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white" />
+        <img src="https://img.shields.io/badge/Status-Live-00ffcc?style=flat-square" />
       </p>
     </td>
   </tr>
 </table>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</p>
+
 ---
 
 <!-- ===================== ANALYTICS ===================== -->
 <div align="center">
-  <h3>📊 GitHub Analytics & Metrics 📊</h3>
+  <img src="https://media.giphy.com/media/W5ZXxPJloNye0/giphy.gif" width="35" />
+  <h2>📊 GitHub Analytics & Metrics 📊</h2>
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tsegazeab86&show_icons=true&theme=vue-dark&hide_border=true&count_private=true" width="48%" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsegazeab86&layout=compact&theme=vue-dark&hide_border=true" width="48%" alt="Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tsegazeab86&show_icons=true&theme=vue-dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00FFCC&icon_color=FF007F&text_color=FFFFFF" width="48%" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsegazeab86&layout=compact&theme=vue-dark&hide_border=true&bg_color=0D1117&title_color=00FFCC&text_color=FFFFFF&langs_count=8" width="48%" alt="Langs" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tsegazeab86&theme=vue-dark&hide_border=true" alt="Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tsegazeab86&theme=vue-dark&hide_border=true&background=0D1117&stroke=00FFCC&ring=FF007F&fire=FF007F&currStreakLabel=00FFCC" alt="Streak" width="70%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tsegazeab86&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tsegazeab86&theme=react-dark&bg_color=0D1117&color=00FFCC&line=FF007F&point=FFFFFF&hide_border=true" width="100%" alt="Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </p>
 
 ---
 
 <!-- ===================== PHILOSOPHY ===================== -->
 <div align="center">
-  <h3>💡 Engineering Philosophy 💡</h3>
-  <p><em>"Writing clean code is important, but building scalable, user-centric, and maintainable software architectures is what truly defines engineering excellence."</em></p>
-  <p><b>— Tsegaye Mekonnen</b></p>
+  <h2>💡 Engineering Philosophy 💡</h2>
+  <br />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+  <br /><br />
+  <blockquote>
+    <p><em>"Writing clean code is important, but building scalable, user-centric, and maintainable software architectures is what truly defines engineering excellence."</em></p>
+    <p><b>— Tsegaye Mekonnen</b></p>
+  </blockquote>
 </div>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</p>
+
+---
+
+<!-- ===================== SNAKE ANIMATION ===================== -->
+<div align="center">
+  <h2>🐍 Contribution Snake 🐍</h2>
+  <img src="https://raw.githubusercontent.com/tsegazeab86/tsegazeab86/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake" />
+</div>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</p>
 
 ---
 
 <!-- ===================== CONTACT ===================== -->
 <div align="center">
-  <h3>📫 Let's Connect & Collaborate</h3>
+  <h2>📫 Let's Connect & Collaborate 🤝</h2>
+  <p><em>Open to freelance projects, collaborations, and full-time opportunities</em></p>
+  <br />
   
   <p>
     <a href="https://www.linkedin.com/in/tsegish86" target="_blank">
@@ -190,8 +306,13 @@
   </p>
   
   <p>📧 <b>tsegazeab860@gmail.com</b></p>
+  
+  <br />
+  <p>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&lines=Thanks+for+stopping+by!+%F0%9F%98%8A;Let's+build+something+amazing+together.+%F0%9F%9A%80;Star+my+repos+if+you+find+them+useful!+%E2%AD%90" alt="Footer Typing" />
+  </p>
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=50,30,15,4,0&height=100&section=footer" width="100%" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=40,24,12,6,2,0&height=140&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=00FFCC&fontAlignY=70" width="100%" alt="Footer" />
 </p>
