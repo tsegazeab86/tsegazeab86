@@ -124,6 +124,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </p>
 
+
 ### 1. Evangadi Forum
 > An integrated full-stack community Q&A platform facilitating technical discussions with secure authentication, question posting, and answer threads.
 
@@ -188,10 +189,6 @@
   <br />
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
   <br /><br />
-  <blockquote>
-    <p><em>"Writing clean code is important, but building scalable, user-centric, and maintainable software architectures is what truly defines engineering excellence."</em></p>
-    <p><b>— Tsegaye Mekonnen</b></p>
-  </blockquote>
 </div>
 
 <p align="center">
