@@ -55,7 +55,7 @@
       </p>
     </td>
     <td width="45%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="80%" alt="Coding Graphic" />
+      <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80" width="100%" style="border-radius:12px; border: 2px solid #00ffcc;" alt="Coding Workstation" />
     </td>
   </tr>
 </table>
@@ -135,27 +135,76 @@
 
 <br />
 
-### 1. Evangadi Forum
-* **Technologies:** `React.js` `Node.js` `Express.js` `MySQL` `Tailwind CSS` `JWT`
-* **Links:** [GitHub Repository](#) | [Live Demo](https://evangadi-front.vercel.app/)
+<!-- Project 1: Evangadi Forum -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,6,12,24&height=60&section=header&text=1.%20Evangadi%20Forum&fontSize=24&fontColor=00FFCC&fontAlign=10&fontAlignY=55" width="100%" alt="Evangadi Forum Banner" />
+</p>
+<p>
+  <b>Technologies:</b> 
+  <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+</p>
+<p>
+  🔗 <b>Links:</b> <a href="#">GitHub Repository</a> | <a href="https://evangadi-front.vercel.app/">Live Demo 🚀</a>
+</p>
 
----
+<br />
 
-### 2. Netflix Clone
-* **Technologies:** `React.js` `TMDB API` `Material-UI` `CSS3`
-* **Links:** [GitHub Repository](#) | [Live Demo](https://netflix-clone-seven-mocha-66.vercel.app/)
+<!-- Project 2: Netflix Clone -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,24,40,2,0&height=60&section=header&text=2.%20Netflix%20Clone&fontSize=24&fontColor=00FFCC&fontAlign=10&fontAlignY=55" width="100%" alt="Netflix Clone Banner" />
+</p>
+<p>
+  <b>Technologies:</b> 
+  <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TMDB_API-01B4E4?style=flat-square&logo=themoviedatabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+</p>
+<p>
+  🔗 <b>Links:</b> <a href="#">GitHub Repository</a> | <a href="https://netflix-clone-seven-mocha-66.vercel.app/">Live Demo 🚀</a>
+</p>
 
----
+<br />
 
-### 3. Amazon Clone
-* **Technologies:** `React.js` `Node.js` `Express.js` `Firebase` `Stripe API` `Vercel`
-* **Links:** [GitHub Repository](#) | [Live Demo](#)
+<!-- Project 3: Amazon Clone -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,6,12,24&height=60&section=header&text=3.%20Amazon%20Clone&fontSize=24&fontColor=00FFCC&fontAlign=10&fontAlignY=55" width="100%" alt="Amazon Clone Banner" />
+</p>
+<p>
+  <b>Technologies:</b> 
+  <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Stripe_API-008CDD?style=flat-square&logo=stripe&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+</p>
+<p>
+  🔗 <b>Links:</b> <a href="#">GitHub Repository</a> | <a href="#">Live Demo 🚀</a>
+</p>
 
----
+<br />
 
-### 4. Academic Advising System
-* **Technologies:** `React.js` `Vite` `Node.js` `Express.js` `MySQL`
-* **Links:** [GitHub Repository](#) | [Live Demo](#)
+<!-- Project 4: Academic Advising System -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,24,40,2,0&height=60&section=header&text=4.%20Academic%20Advising%20System&fontSize=24&fontColor=00FFCC&fontAlign=10&fontAlignY=55" width="100%" alt="Academic Advising System Banner" />
+</p>
+<p>
+  <b>Technologies:</b> 
+  <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+</p>
+<p>
+  🔗 <b>Links:</b> <a href="#">GitHub Repository</a> | <a href="#">Live Demo 🚀</a>
+</p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
