@@ -137,11 +137,33 @@
 
 <table width="100%" border="0" style="border-collapse: collapse;">
 
-<!-- Project 1: Evangadi Forum -->
+<!-- Project 1: AeroPulse Weather Dashboard -->
 <tr>
 <td style="padding: 15px; border: 1px solid #30363d; border-radius: 10px; background-color: #0d1117;">
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,6,12,24&height=50&section=header&text=1.%20Evangadi%20Forum&fontSize=22&fontColor=00FFCC&fontAlign=10&fontAlignY=55" width="100%" alt="Evangadi Forum Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,6,12,24&height=50&section=header&text=1.%20AeroPulse%20Weather%20Dashboard&fontSize=22&fontColor=00FFCC&fontAlign=10&fontAlignY=55" width="100%" alt="Weather App Banner" />
+</p>
+<p>
+  <b>Technologies:</b> 
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/WeatherAPI-0288D1?style=flat-square&logo=cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Leaflet.js-199900?style=flat-square&logo=leaflet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+</p>
+<p>
+  🔗 <b>Links:</b> <a href="https://github.com/tsegazeab86/weather-app">GitHub Repository</a> | <a href="https://weatherapp-xi-sand.vercel.app/">Live Demo 🚀</a>
+</p>
+</td>
+</tr>
+
+<tr height="15px"><td></td></tr>
+
+<!-- Project 2: Evangadi Forum -->
+<tr>
+<td style="padding: 15px; border: 1px solid #30363d; border-radius: 10px; background-color: #0d1117;">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,24,40,2,0&height=50&section=header&text=2.%20Evangadi%20Forum&fontSize=22&fontColor=00FFCC&fontAlign=10&fontAlignY=55" width="100%" alt="Evangadi Forum Banner" />
 </p>
 <p>
   <b>Technologies:</b> 
@@ -160,11 +182,11 @@
 
 <tr height="15px"><td></td></tr>
 
-<!-- Project 2: Netflix Clone -->
+<!-- Project 3: Netflix Clone -->
 <tr>
 <td style="padding: 15px; border: 1px solid #30363d; border-radius: 10px; background-color: #0d1117;">
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,24,40,2,0&height=50&section=header&text=2.%20Netflix%20Clone&fontSize=22&fontColor=00FFCC&fontAlign=10&fontAlignY=55" width="100%" alt="Netflix Clone Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,6,12,24&height=50&section=header&text=3.%20Netflix%20Clone&fontSize=22&fontColor=00FFCC&fontAlign=10&fontAlignY=55" width="100%" alt="Netflix Clone Banner" />
 </p>
 <p>
   <b>Technologies:</b> 
@@ -181,11 +203,11 @@
 
 <tr height="15px"><td></td></tr>
 
-<!-- Project 3: Amazon Clone -->
+<!-- Project 4: Amazon Clone -->
 <tr>
 <td style="padding: 15px; border: 1px solid #30363d; border-radius: 10px; background-color: #0d1117;">
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,6,12,24&height=50&section=header&text=3.%20Amazon%20Clone&fontSize=22&fontColor=00FFCC&fontAlign=10&fontAlignY=55" width="100%" alt="Amazon Clone Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,24,40,2,0&height=50&section=header&text=4.%20Amazon%20Clone&fontSize=22&fontColor=00FFCC&fontAlign=10&fontAlignY=55" width="100%" alt="Amazon Clone Banner" />
 </p>
 <p>
   <b>Technologies:</b> 
@@ -204,11 +226,11 @@
 
 <tr height="15px"><td></td></tr>
 
-<!-- Project 4: Academic Advising System -->
+<!-- Project 5: Academic Advising System -->
 <tr>
 <td style="padding: 15px; border: 1px solid #30363d; border-radius: 10px; background-color: #0d1117;">
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,24,40,2,0&height=50&section=header&text=4.%20Academic%20Advising%20System&fontSize=22&fontColor=00FFCC&fontAlign=10&fontAlignY=55" width="100%" alt="Academic Advising System Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,6,12,24&height=50&section=header&text=5.%20Academic%20Advising%20System&fontSize=22&fontColor=00FFCC&fontAlign=10&fontAlignY=55" width="100%" alt="Academic Advising System Banner" />
 </p>
 <p>
   <b>Technologies:</b> 
